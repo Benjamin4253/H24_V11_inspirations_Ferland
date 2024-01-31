@@ -8,5 +8,5 @@ Mes intérêts principaux en multimédia sont la vidéo et l’audio. J’adorai
 
 
 ## Ce qui me plait dans l'introduction à la muséologie en TIM
-Partager avec les étudiant.e.s des expériences permettant de poser un regard large sur l'expérience vécue par les spectacteurs qui perçoivent l'oeuvre ou le dispositif dans un contexte d'exposition.  
-Apprendre à s'intéresser à toutes les composantes physiques et techniques qui interviennent dans la réception de la création.
+
+Je ne suis pas vraiment passionné par la muséologie pour le moment, mais j'espère en apprendre davantage et peut-être développer un intérêt pour ce domaine pendant le cours.
