@@ -1,9 +1,4 @@
-# Sylvie François
-
-![420357682_3662014290712293_9011684323121746460_n](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/e8caf342-07f8-4f85-9248-ddbc17819273)
-
-
-Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
+  # Benjamin Ferland
 
 
 ## **Intérêts dans le multimedia**
