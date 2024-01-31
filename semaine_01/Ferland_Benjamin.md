@@ -1,4 +1,6 @@
   # Benjamin Ferland
+  
+![420357682_3662014290712293_9011684323121746460_n](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/d5d1e988-55b2-4c3d-adc5-2d0d95147c4f)
 
 ## **Intérêts dans le multimedia**
 J'aime particulièrement les oeuvres d'art et j'apprécie l'art numérique qui utilise les codes ou outils technologiques pour en faire une poésie de sons et d'images.  
