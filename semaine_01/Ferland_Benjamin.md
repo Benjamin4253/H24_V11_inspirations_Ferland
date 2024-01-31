@@ -1,6 +1,5 @@
   # Benjamin Ferland
 
-
 ## **Intérêts dans le multimedia**
 J'aime particulièrement les oeuvres d'art et j'apprécie l'art numérique qui utilise les codes ou outils technologiques pour en faire une poésie de sons et d'images.  
 J'ai un faible pour les artistes qui combinent dans leurs installations des oeuvres physiques et médiatiques pour tisser une narration, souvent à contenu social, comme *VahMiré*.
