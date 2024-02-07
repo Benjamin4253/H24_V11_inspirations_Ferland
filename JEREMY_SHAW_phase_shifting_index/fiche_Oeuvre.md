@@ -18,7 +18,9 @@ Année de réalisation:
 
 Description de l'oeuvre
 
-Type d'installation (contemplative, immersive, interactive)
+Type d'installation (contemplative, immersive, interactive):
+
+Immersive
 
 Mise en espace
 
