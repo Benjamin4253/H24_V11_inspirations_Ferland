@@ -1,1 +1,1 @@
-Ce dossier contient l'ouvre de Jérémy Shaw et critères d’évaluation pour le tp1. 
+Ce dossier décrit l'appréciation de l'oeuvre de Jérémy Shaw et les médias pris durant l'exposition.
