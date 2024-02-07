@@ -22,7 +22,8 @@ Type d'installation (contemplative, immersive, interactive):
 
 Immersive
 
-Mise en espace
+Mise en espace:
+Il y a 7 écrans 
 
 Composantes et techniques
 
