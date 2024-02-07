@@ -5,7 +5,7 @@ Lieu de mise en exposition:
 Fonderie Darling Montréal
 
 Date de votre visite
-31 janvier mardi
+31 janvier 2024
 
 Titre de l'oeuvre
 Phase Shifting Index
