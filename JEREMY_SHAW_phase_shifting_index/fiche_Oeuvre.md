@@ -3,7 +3,7 @@ Jeremy Shaw
 
 2.Lieu de mise en exposition:
 Fonderie Darling Montréal
-
+ 
 3.Date de votre visite:
 31 janvier 2024
 
