@@ -9,7 +9,7 @@ Fonderie Darling Montréal
 
 4.Titre de l'oeuvre:
 Phase Shifting Index
-
+ 
 5.Nom de l'artiste:
 Jeremy Shaw
 
