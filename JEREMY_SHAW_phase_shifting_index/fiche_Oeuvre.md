@@ -27,9 +27,7 @@ Il y a 7 écrans .............
 
 10.Composantes et techniques
 
-
 11.Éléments nécessaires à la mise en exposition
-
 
 12.Expérience vécue:
 
