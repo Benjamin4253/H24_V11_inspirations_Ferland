@@ -14,8 +14,8 @@ Nom de l'artiste:
 Jeremy Shaw
 
 Année de réalisation:
-2023
-N/A
+2020
+
 Description de l'oeuvre
 
 Type d'installation (contemplative, immersive, interactive)
