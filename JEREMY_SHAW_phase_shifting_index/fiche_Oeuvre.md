@@ -2,7 +2,7 @@
 
 |:pencil2: Information recherchée  | :camera: Photographie | Réponses aux questions |
 | ---     | ---             | --- |
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition|Jeremy Shaw
+| Nom de l'exposition ou de l'événement|![Affiche Exposition](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/6090f715-ceb2-4f31-b1db-d74b02498b53)|Jeremy Shaw
 | Lieu de mise en exposition  | ![entrée édifice](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/f13a7630-ffec-40fa-8743-74c5f2584d7b)| Fonderie Darling Montréal
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)| | Intérieure
 | Date de votre visite| | 31 janvier 2024|
