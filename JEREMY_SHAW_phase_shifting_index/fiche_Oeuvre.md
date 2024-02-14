@@ -2,7 +2,7 @@
 
 |:pencil2: Information recherchée  | :camera: Photographie | Détails supplémentaires |
 | ---     | ---             | --- |
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition| |
+| Nom de l'exposition ou de l'événement|Affiche de l'exposition| | Jeremy Shaw
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice|  |
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    |  |  |
 | Date de votre visite    |            |  |
