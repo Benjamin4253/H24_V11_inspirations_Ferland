@@ -15,7 +15,11 @@
 
 ## Œuvre principale
 
-4. Titre de l'œuvre: Phase Shifting Index
+<h3>Titre de l'œuvre:</h3>
+<p>Phase Shifting Index</p>
+
+
+
 5. Nom de l'artiste: Jeremy Shaw
 6. Année de réalisation: 2020
 
