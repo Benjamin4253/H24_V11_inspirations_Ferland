@@ -3,7 +3,7 @@
 ## Informations sur l'exposition
 
 <p> Nom de l'exposition: Jeremy Shaw 
-![affiche exposition](
+![affiche exposition](medias/affiche_exposition.png)
 </p>
 
 <h3>Lieu de l'exposition:</h3>
