@@ -1,6 +1,6 @@
 ### NOTES ET PHOTOGRAPHIES LORS DE VOTRE VISITE
 
-|:pencil2: Information recherchée  | :camera: PHOTOGRAPHIE | Détails supplémentaires |
+|:pencil2: Information recherchée  | :camera: Photographie | Détails supplémentaires |
 | ---     | ---             | --- |
 | Nom de l'exposition ou de l'événement|Affiche de l'exposition| |
 | Lieu de mise en exposition    | Vous devant l'entrée de l'édifice|  |
