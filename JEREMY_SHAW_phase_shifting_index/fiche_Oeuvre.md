@@ -1,10 +1,10 @@
 ### NOTES ET PHOTOGRAPHIES LORS DE VOTRE VISITE
 
-|:pencil2: Information recherchée  | :camera: Photographie | Détails supplémentaires |
+|:pencil2: Information recherchée  | :camera: Photographie | Réponses aux questions |
 | ---     | ---             | --- |
 | Nom de l'exposition ou de l'événement|Affiche de l'exposition|Jeremy Shaw
-| Lieu de mise en exposition    | Vous devant l'entrée de l'édifice|  |
-| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    |  |  |
+| Lieu de mise en exposition  | Vous devant l'entrée de l'édifice| Fonderie Darling Montréal
+| Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)| |  |
 | Date de votre visite    |            |  |
 | Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
 | Nom de l'artiste    |         |  |
