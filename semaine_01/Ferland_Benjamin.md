@@ -2,9 +2,11 @@
 
 ## Informations sur l'exposition
 
-1. Nom de l'exposition ou de l'événement: Jeremy Shaw
-2. Lieu de mise en exposition: Fonderie Darling Montréal
-3. Date de votre visite: 31 janvier 2024
+<p> Nom de l'exposition: Jeremy Shaw </p>
+![Affiche Exposition](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/fce278ae-72b1-4bac-8f41-0f88213b3e00)
+
+<p>Lieu de l'exposition: Fonderie Darling Montréal</p>
+<p>Date de notre visite: 31 janvier 2024</p>
 
 ## Œuvre principale
 
