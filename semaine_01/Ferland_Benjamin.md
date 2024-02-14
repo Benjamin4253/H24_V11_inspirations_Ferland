@@ -1,12 +1,40 @@
-  # Benjamin Ferland
-  
-![420357682_3662014290712293_9011684323121746460_n](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/d5d1e988-55b2-4c3d-adc5-2d0d95147c4f)
+# Jeremy Shaw Exhibition - Phase Shifting Index
 
-## **Intérêts dans le multimedia**
+## Informations sur l'exposition
 
-Mes intérêts principaux en multimédia sont la vidéo et l’audio. J’adorais apprendre des bonnes techniques pour améliorer l’histoire de mes vidéos. Aussi, savoir comment bien filmer une scène. Pour conclure, j’aimerais apprendre comment bien faire les footer (sounds effects) d’une vidéo.
+1. Nom de l'exposition ou de l'événement: Jeremy Shaw
+2. Lieu de mise en exposition: Fonderie Darling Montréal
+3. Date de votre visite: 31 janvier 2024
 
+## Œuvre principale
 
-## Ce qui me plait dans l'introduction à la muséologie en TIM
+4. Titre de l'œuvre: Phase Shifting Index
+5. Nom de l'artiste: Jeremy Shaw
+6. Année de réalisation: 2020
 
-Je ne suis pas vraiment passionné par la muséologie pour le moment, mais j'espère en apprendre davantage et peut-être développer un intérêt pour ce domaine pendant le cours.
+## Description de l'œuvre
+
+7. Description: (Insérez ici une description détaillée de l'œuvre)
+
+## Caractéristiques de l'installation
+
+8. Type d'installation (contemplative, immersive, interactive): Immersive
+9. Mise en espace: Il y a 7 écrans
+
+## Composantes et techniques
+
+10. (Insérez ici des informations sur les composantes et techniques utilisées dans l'œuvre)
+
+## Logistique de l'exposition
+
+11. Éléments nécessaires à la mise en exposition: (Décrivez les éléments logistiques nécessaires pour présenter l'exposition)
+
+## Expérience vécue
+
+12. Expérience vécue: (Partagez votre expérience personnelle lors de la visite de l'exposition)
+
+## Impressions et Réflexions
+
+13. ❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications): Lorsque les plans étaient synchronisés avec la musique et les lumières.
+
+14. 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: Éléments pertinents.
