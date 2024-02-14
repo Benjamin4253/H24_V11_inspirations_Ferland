@@ -2,9 +2,10 @@
 
 ## Informations sur l'exposition
 
-<p> Nom de l'exposition: Jeremy Shaw 
+<p> Nom de l'exposition: Jeremy Shaw</p>
+  
 ![affiche exposition](medias/affiche_exposition.png)
-</p>
+
 
 <h3>Lieu de l'exposition:</h3>
 <p>Fonderie Darling Montréal</p>
