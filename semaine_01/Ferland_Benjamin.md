@@ -1,6 +1,5 @@
 # Benjamin Ferland
-  
-
+![image](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/0688d181-fbf7-4dfa-8065-b70c677294bc)
 
 ## **Intérêts dans le multimedia**
 
