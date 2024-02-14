@@ -7,7 +7,7 @@
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)| | Intérieure
 | Date de votre visite| | 31 janvier 2024|
 | Titre de l'oeuvre  | ![Vue d'ensemble oeuvre](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/bed3d974-76d6-4a64-8be2-ee21b1958217)| Phase Shifting Index|
-| Nom de l'artiste| Jeremy Shaw
+| Nom de l'artiste| | Jeremy Shaw
 | Année de réalisation| | 2020|
 | Description de l'oeuvre | ![première vue](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/21823687-b7f7-4e79-820a-ea9945813b82) ![deuxième vue](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/ebce2ce9-9086-47af-b940-ea37f9a11c7c)| À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante* - vidéo ou photo qui nous permet de bien comprendre le type d'installation| Immersive|
