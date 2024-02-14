@@ -6,7 +6,7 @@
 | Lieu de mise en exposition  | ![entrée édifice](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/f13a7630-ffec-40fa-8743-74c5f2584d7b)| Fonderie Darling Montréal
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)| | Intérieure
 | Date de votre visite| | 31 janvier 2024|
-| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | Phase Shifting Index|
+| Titre de l'oeuvre  | ![Vue d'ensemble oeuvre](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/bed3d974-76d6-4a64-8be2-ee21b1958217)| Phase Shifting Index|
 | Nom de l'artiste    | | Jeremy Shaw|
 | Année de réalisation| | 2020|
 | Description de l'oeuvre   | Cartel + diverses vues| À composer ou reprendre la description offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
