@@ -3,7 +3,8 @@
 ## Informations sur l'exposition
 
 <p> Nom de l'exposition: Jeremy Shaw 
-![Affiche Exposition](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/fce278ae-72b1-4bac-8f41-0f88213b3e00)</p>
+![Affiche Exposition](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/da4a7bdc-2553-4a1c-846f-7e4ff2e0bb74)
+</p>
 
 <h3>Lieu de l'exposition:</h3>
 <p>Fonderie Darling Montréal</p>
