@@ -5,8 +5,8 @@
 | Nom de l'exposition ou de l'événement|Affiche de l'exposition|Jeremy Shaw
 | Lieu de mise en exposition  | Vous devant l'entrée de l'édifice| Fonderie Darling Montréal
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)| | Intérieure
-| Date de votre visite    |            |  |
-| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  |  |
+| Date de votre visite| | 31 janvier 2024|
+| Titre de l'oeuvre  | Vue d'ensemble de l'oeuvre ou du dispositif  | Phase Shifting Index|
 | Nom de l'artiste    |         |  |
 | Année de réalisation     |          |  |
 | Description de l'oeuvre   | Cartel + diverses vues          | À composer ou reprendre la descritpion offerte sur le site de l'artiste ou sur le cartel en **indiquant bien sa source** |
