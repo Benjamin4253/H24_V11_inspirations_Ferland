@@ -5,8 +5,12 @@
 <p> Nom de l'exposition: Jeremy Shaw 
 ![Affiche Exposition](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/fce278ae-72b1-4bac-8f41-0f88213b3e00)</p>
 
-<p>Lieu de l'exposition: Fonderie Darling Montréal</p>
-<p>Date de notre visite: 31 janvier 2024</p>
+<h3>Lieu de l'exposition:</h3>
+<p>Fonderie Darling Montréal</p>
+![entrée édifice](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/c8fd5f11-df4b-44f8-bb24-cb9ef3c8407d)
+
+<h3>Date de notre visite:</h3>
+<p>31 janvier 2024</p>
 
 ## Œuvre principale
 
