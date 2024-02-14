@@ -1,4 +1,5 @@
 # Exposition:
+![Affiche Exposition](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/47325835-ce7a-4300-ace7-084a70f0950b)
 
 Jeremy Shaw
 
