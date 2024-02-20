@@ -44,7 +44,7 @@
 Pour exposer "Phase Shifting Index", une salle spacieuse avec sept écrans, un système audio de qualité, un éclairage approprié et une signalisation claire sont nécessaires.
 
 
-L'exposition "Phase Shifting Index" nécessite une salle spacieuse avec sept écrans, un bon système audio, un éclairage approprié, et une signalisation claire pour guider les visiteurs.
+L'exposition "Phase Shifting Index" à nécessiter une grande salle avec sept écrans, un bon système audio, un éclairage approprié pour l'exposition.
 
 Cela comprend la disponibilité d'une grande salle dédiée avec bancs recouvert de tapis qui sont collés sur les murs adaptés à la projection des sept écrans.
 
