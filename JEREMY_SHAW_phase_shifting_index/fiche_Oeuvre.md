@@ -35,7 +35,7 @@
 
 ## Composantes et techniques
 
-10. (Insérez ici des informations sur les composantes et techniques utilisées dans l'œuvre)
+10. "Phase Shifting Index" de Jeremy Shaw utilise une variété de composantes et techniques pour créer une oeuvre artistique immersive. Tout d'abord, l'installation présente des vidéos de danses d'un rituelle projetées sur 7 écrans dans un grosse salle. Cette disposition des éléments dans l'espace vise et permet aux spectateurs de vivre à travers l'art de Jeremy Shaw, de manière interactive. De plus, la synchronisation astucieuse de ces images avec une bande sonore hypnotique contribue à créer une expérience sensorielle unique, captivant ainsi l'attention et suscitant une réflexion profonde sur la réalité et la conscience humaine.)
 
 ## Logistique de l'exposition
 
