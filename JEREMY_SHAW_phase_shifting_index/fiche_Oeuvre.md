@@ -39,7 +39,7 @@
 
 ## Logistique de l'exposition
 
-# 11. Éléments nécessaires à la mise en exposition: (Décrivez les éléments logistiques nécessaires pour présenter l'exposition)
+### 11. Éléments nécessaires à la mise en exposition: (Décrivez les éléments logistiques nécessaires pour présenter l'exposition)
 La mise en exposition de "Phase Shifting Index" nécessite plusieurs éléments logistiques pour assurer une présentation réussie. Cela comprend la disponibilité d'une grande salle dédiée avec des murs adaptés à la projection des sept écrans. Un système audio de qualité est essentiel pour la synchronisation précise de la bande sonore. Des dispositifs d'éclairage appropriés sont nécessaires pour créer l'ambiance immersive souhaitée, et une signalisation claire guidera les visiteurs à travers l'installation.
 
 ## Expérience vécue
