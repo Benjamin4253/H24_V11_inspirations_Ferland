@@ -41,7 +41,7 @@
 
 ### 11. Éléments nécessaires à la mise en exposition: (Décrivez les éléments logistiques nécessaires pour présenter l'exposition)
 
-L'exposition "Phase Shifting Index" à nécessiter une grande salle avec des bancs qui en recouvrent sont entiereter qui sont collés adaptés à la projection des sept écrans. avec sept écrans, un bon système audio, un éclairage approprié pour l'exposition.
+L'exposition "Phase Shifting Index" à nécessiter une grande salle avec des bancs qui en recouvrent son entièreté. La pièce est aussi accompagnés par une projection sur 7 écrans, un bon système audio et un éclairage approprié pour l'exposition.
 
 
 
