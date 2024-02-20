@@ -43,8 +43,6 @@
 
 L'exposition "Phase Shifting Index" à nécessiter une grande salle avec des bancs qui en recouvrent son entièreté. La pièce est aussi accompagnés par une projection sur 7 écrans, un bon système audio et un éclairage approprié pour l'exposition.
 
-
-
 ## Expérience vécue
 
 12. Expérience vécue: (Partagez votre expérience personnelle lors de la visite de l'exposition)
