@@ -63,9 +63,15 @@
 
 ## Impressions et Réflexions
 
+<h3> Voici ce qui m'a plu et ce qui m'a donné des idées en regardant l'exposition. </h3>
+
+<p> Ce que j'ai vraiment aimé dans "Phase Shifting Index", c'est comment Jeremy Shaw a mélangé les images et la musique de façon impressionnante. La coordination entre les vidéos de danses et la musique géniale a rendu l'expérience super spéciale. Cela m'a fait penser à la force de mettre ensemble différentes choses, comme des vidéos et de la musique, pour montrer des idées importantes. Ça a stimulé ma créativité en me montrant comment différentes formes d'art peuvent travailler ensemble pour exprimer des émotions et des pensées importantes.</p
+
 13. ❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications): Lorsque les plans étaient synchronisés avec la musique et les lumières.
 
-14. 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: Éléments pertinents.
+  
+
+15. 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: Éléments pertinents.
 
 
 
