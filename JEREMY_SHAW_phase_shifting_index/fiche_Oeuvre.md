@@ -15,8 +15,9 @@
 
 ## Œuvre principale
 
-<h3>Titre de l'œuvre:</h3>
-<p>Phase Shifting Index</p>
+<h3> Le titre de l'oeuvre est: </h3>
+  <p> Phase Shifting Index </p>
+  
 [![vue oeuvre](medias/vue_oeuvre.png)]
 
 <h3>L'artiste qui a réaliser l'oeuvre est:</h3>
