@@ -8,6 +8,8 @@
 <h3>Lieu de l'exposition:</h3>
 <p>Fonderie Darling Montréal</p>
 
+
+
 ![affiche exposition](medias/affiche_exposition.png)
 
 <h3>Date de notre visite:</h3>
