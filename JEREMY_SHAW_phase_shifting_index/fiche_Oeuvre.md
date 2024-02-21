@@ -59,7 +59,7 @@
 
 <h3> Voici une description de mon expérience personnelle lors de la visite de l'exposition </h3>
 
-<p> Quand j'ai visité "Phase Shifting Index", les vidéos de danses rituelles sur les écrans m'ont vraiment captivé. En étant au milieu de la salle, ça m'a fait ressentir une connexion spéciale avec l'art de Jeremy Shaw. La musique qui allait avec les images a rendu l'expérience encore plus intense. Cette immersion m'a incité à réfléchir sur la nature de la réalité et de la conscience humaine.</p
+<p> Quand j'ai visité "Phase Shifting Index", les vidéos de danses rituelles sur les écrans m'ont vraiment captivé. En étant au milieu de la salle, ça m'a fait ressentir une connexion spéciale avec l'art de Jeremy Shaw. La musique qui complétait avec les images a rendu l'expérience encore plus intense et divertissante. Cette immersion m'a vraiment incité à réfléchir sur la nature de la réalité et de la conscience humaine.</p
 
 ## Impressions et Réflexions
 
