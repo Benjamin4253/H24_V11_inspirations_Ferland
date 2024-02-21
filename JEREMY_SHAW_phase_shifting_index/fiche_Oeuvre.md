@@ -53,14 +53,20 @@
 
 <h3> Voici une description des éléments nécessaires à la mise en exposition </h3>
 
-<p>L'exposition «Phase Shifting Index» à nécessiter une grande salle avec des bancs qui en recouvrent son entièreté. La pièce est aussi accompagnés par une projection sur 7 écrans, un bon système audio et un éclairage approprié pour l'exposition.
+<p>L'exposition «Phase Shifting Index» à nécessiter une grande salle avec des bancs qui en recouvrent son entièreté. La pièce est aussi accompagnés par une projection sur 7 écrans, un bon système audio et un éclairage approprié pour l'exposition.</p
 
 ## Expérience vécue
 
-12. Expérience vécue: (Partagez votre expérience personnelle lors de la visite de l'exposition)
+<h3> Voici une description de mon expérience personnelle lors de la visite de l'exposition </h3>
+
+<p> Quand j'ai visité "Phase Shifting Index", les vidéos de danses rituelles sur les écrans m'ont vraiment captivé. En étant au milieu de la salle, ça m'a fait ressentir une connexion spéciale avec l'art de Jeremy Shaw. La musique qui allait avec les images a rendu l'expérience encore plus intense. Cette immersion m'a incité à réfléchir sur la nature de la réalité et de la conscience humaine.</p
 
 ## Impressions et Réflexions
 
 13. ❤️ Ce qui vous a plu, vous a donné des idées (et pourquoi - justifications): Lorsque les plans étaient synchronisés avec la musique et les lumières.
 
 14. 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: Éléments pertinents.
+
+
+
+
