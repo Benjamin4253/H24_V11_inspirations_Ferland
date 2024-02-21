@@ -68,9 +68,6 @@
 <p> Ce que j'ai vraiment apprécié dans l'exposition, c'est comment Jeremy Shaw a mélangé les vidéos et la musique de façon impressionnante. La coordination entre les vidéos de danses et la musique était vraiment bien exécuté. Ça a rendu l'expérience mémorable.
 Ça m'a fait penser à rassembler plein de petites actions faites par des gens qui travaillent ensemble, pour former une seule chose. C'est comme si toutes ces parties différentes travaillaient ensemble pour créer quelque chose de complet, montrant que c'est puissant quand on coopère. Ça a stimulé ma créativité en me montrant comment différentes formes d'art peuvent travailler ensemble pour exprimer des émotions et des pensées importantes.</p
 
-<h3> Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications: Éléments pertinents. </h3> 
+<h3> Voici 1 aspect que vous ne souhaiteriez pas retenir de l'exposition. </h3> 
 
-
-Un aspect de "Phase Shifting Index" que je modifierais serait peut-être la complexité de la synchronisation entre les vidéos et la musique. Bien que cela crée une expérience immersive, une simplification subtile pourrait rendre l'œuvre plus accessible à un public plus large.
-
-
+<p>Un aspect de "Phase Shifting Index" que je modifierais serait peut-être la complexité de la synchronisation entre les vidéos et la musique. Bien que cela crée une expérience immersive, une simplification subtile pourrait rendre l'œuvre plus accessible à un public plus large.</p
