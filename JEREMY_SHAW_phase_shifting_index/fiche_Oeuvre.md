@@ -18,7 +18,7 @@
 
 <h3>Titre de l'œuvre:</h3>
 <p>Phase Shifting Index</p>
-![Vue oeuvre](https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/assets/142919065/504087ae-b00d-4e35-8391-f7eaa1b9614f)
+![vue oeuvre](medias/vue_oeuvre.png)
 
 <h3>L'artiste qui a réaliser l'oeuvre est:</h3>
   <p>Jeremy Shaw</p>
