@@ -18,6 +18,7 @@
 
 <h3>Titre de l'œuvre:</h3>
 <p>Phase Shifting Index</p>
+![Vue oeuvre](medias/Vue oeuvre.png)
 
 <h3>L'artiste qui a réaliser l'oeuvre est:</h3>
   <p>Jeremy Shaw</p>
