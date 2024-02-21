@@ -10,8 +10,6 @@
 
 ![entree edifice](medias/entree_edifice.png)
 
-![affiche exposition](medias/affiche_exposition.png)
-
 <h3>Date de notre visite:</h3>
 <p>31 janvier 2024</p>
 
@@ -24,6 +22,8 @@
 
 <h3>L'artiste qui a réaliser l'oeuvre est:</h3>
   <p>Jeremy Shaw</p>
+
+  ![affiche exposition](medias/affiche_exposition.png)
 
 <h3>L'année de réalisation de l'oeuvre est en:</h3>
 <p>2020</p>
