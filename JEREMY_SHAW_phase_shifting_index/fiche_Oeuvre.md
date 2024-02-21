@@ -51,6 +51,8 @@
 
 ## Logistique de l'exposition
 
+<h3> Voici une description des éléments nécessaires à la mise en exposition </h3>
+
 <p>L'exposition «Phase Shifting Index» à nécessiter une grande salle avec des bancs qui en recouvrent son entièreté. La pièce est aussi accompagnés par une projection sur 7 écrans, un bon système audio et un éclairage approprié pour l'exposition.
 
 ## Expérience vécue
