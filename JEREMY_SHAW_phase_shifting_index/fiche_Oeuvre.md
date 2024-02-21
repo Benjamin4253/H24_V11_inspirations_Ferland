@@ -8,7 +8,7 @@
 <h3>Lieu de l'exposition:</h3>
 <p>Fonderie Darling Montréal</p>
 
-
+![entree edifice](medias/entree_edifice.png)
 
 ![affiche exposition](medias/affiche_exposition.png)
 
