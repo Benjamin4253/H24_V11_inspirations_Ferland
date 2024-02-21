@@ -4,13 +4,11 @@
 
 <h3> Le nom de l'exposition est: </h3>
   <p>Jeremy Shaw Phase Shifting Index</p>
-
-![affiche exposition](medias/affiche_exposition.png)
-
-
+  
 <h3>Lieu de l'exposition:</h3>
 <p>Fonderie Darling Montréal</p>
 
+![affiche exposition](medias/affiche_exposition.png)
 
 <h3>Date de notre visite:</h3>
 <p>31 janvier 2024</p>
