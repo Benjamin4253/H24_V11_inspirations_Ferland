@@ -18,7 +18,7 @@
 
 <h3>Titre de l'œuvre:</h3>
 <p>Phase Shifting Index</p>
-![vue oeuvre](medias/vue_oeuvre.png)
+[![vue oeuvre](medias/vue_oeuvre.png)]
 
 <h3>L'artiste qui a réaliser l'oeuvre est:</h3>
   <p>Jeremy Shaw</p>
@@ -37,11 +37,9 @@
 
 ## Composantes et techniques
 
-Liste des composantes et techniques utilisées (ce que l'artiste a fait - pensez à ce qui doit voyager dans une caisse de transport si ceci est exposé outremer)
+<h3>Voici une description des composantes et techniques utilisées par l'artiste pour la réalisation de son oeuvre.</h3>
 
-10. "Phase Shifting Index" de Jeremy Shaw utilise une variété de composantes et techniques pour créer une oeuvre artistique immersive. Tout d'abord, l'installation présente des vidéos de danses d'un rituelle projetées sur 7 écrans dans un grosse salle. Cette disposition des éléments dans l'espace vise et permet aux spectateurs de vivre à travers l'art de Jeremy Shaw, de manière interactive. De plus, la synchronisation astucieuse de ces images avec une bande sonore hypnotique contribue à créer une expérience sensorielle unique, captivant ainsi l'attention et suscitant une réflexion profonde sur la réalité et la conscience humaine.)
-
-### "Phase Shifting Index" de Jeremy Shaw propose des vidéos de danses rituelles sur 7 écrans dans une grande salle. L'échange avec une musique captivante crée une expérience qui fait réfléchir sur la réalité et la pensée humaine.
+<p>>"Phase Shifting Index", création de Jeremy Shaw, combine des vidéos de danses rituelles projetées sur sept écrans dans une vaste salle. Cette disposition permet une immersion interactive dans l'art de Shaw. La synchronisation astucieuse avec une bande sonore hypnotique crée une expérience sensorielle unique, captivant l'attention et suscitant une réflexion profonde sur la réalité et la conscience humaine.</p
 
 ## Logistique de l'exposition
 
