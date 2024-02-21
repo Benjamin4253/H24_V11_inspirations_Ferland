@@ -46,6 +46,8 @@
 
 <p> L'exposition «Phase Shifting Index» prend place dans une salle où sept écrans diffusent des vidéos de danses rituelles. Les visiteurs sont encouragés à se s'assoir sur les bancs pour une expérience immersive. L'éclairage ambiant crée une atmosphère chaleureuse, qui intensifie l'impact des images projetées. L'installation favorise une interaction émotionnelle, qui incitent les spectateurs à s'engager pleinement dans l'aventure. </p>
 
+![plan](medias/plan_exposition.png)
+
 ## Composantes et techniques 
 
 <h3> Voici une description des composantes et techniques utilisées par l'artiste pour la réalisation de son oeuvre. </h3>
