@@ -37,7 +37,11 @@
 ## Caractéristiques de l'installation
 
 8. Type d'installation (contemplative, immersive, interactive): Immersive
-9. Mise en espace: Il y a 7 écrans
+
+<h3> Le type d'installation pour cette oeuvre est: </h3>
+  <p> Immersive </p>
+   
+10. Mise en espace: Il y a 7 écrans
 
 ## Composantes et techniques
 
