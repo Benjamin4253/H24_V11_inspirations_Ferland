@@ -19,7 +19,7 @@
 <h3>Titre de l'œuvre:</h3>
 <p>Phase Shifting Index</p>
 
-
+<h3>L'artiste qui a réaliser l'oeuvre est Jeremy Shaw </h3>
 
 5. Nom de l'artiste: Jeremy Shaw
 6. Année de réalisation: 2020
