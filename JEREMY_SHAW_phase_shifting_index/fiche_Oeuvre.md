@@ -39,13 +39,13 @@
 
 <h3>Voici une description des composantes et techniques utilisées par l'artiste pour la réalisation de son oeuvre.</h3>
 
-<p>"Phase Shifting Index", création de Jeremy Shaw, combine des vidéos de danses rituelles projetées sur sept écrans dans une vaste salle. Cette disposition permet une immersion interactive dans l'art de Shaw. La synchronisation astucieuse avec une bande sonore hypnotique crée une expérience sensorielle unique, captivant l'attention et suscitant une réflexion profonde sur la réalité et la conscience humaine.</p
+<p>«Phase Shifting Index», création de Jeremy Shaw, combine des vidéos de danses rituelles projetées sur sept écrans dans une vaste salle. Cette disposition permet une immersion interactive dans l'art de Shaw. La synchronisation astucieuse avec une bande sonore hypnotique crée une expérience sensorielle unique, captivant l'attention et suscitant une réflexion profonde sur la réalité et la conscience humaine.</p
 
 ## Logistique de l'exposition
 
 ### 11. Éléments nécessaires à la mise en exposition: (Décrivez les éléments logistiques nécessaires pour présenter l'exposition)
 
-L'exposition "Phase Shifting Index" à nécessiter une grande salle avec des bancs qui en recouvrent son entièreté. La pièce est aussi accompagnés par une projection sur 7 écrans, un bon système audio et un éclairage approprié pour l'exposition.
+<p>L'exposition «Phase Shifting Index» à nécessiter une grande salle avec des bancs qui en recouvrent son entièreté. La pièce est aussi accompagnés par une projection sur 7 écrans, un bon système audio et un éclairage approprié pour l'exposition.
 
 ## Expérience vécue
 
