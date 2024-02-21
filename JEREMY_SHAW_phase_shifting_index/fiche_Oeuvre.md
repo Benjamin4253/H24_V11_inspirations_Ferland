@@ -22,8 +22,8 @@
 <h3>L'artiste qui a réaliser l'oeuvre est:</h3>
   <p>Jeremy Shaw</p>
 
-5. Nom de l'artiste: Jeremy Shaw
-6. Année de réalisation: 2020
+<h3>L'année de réalisation de l'oeuvre est en:</h3>
+<p>2020</p>
 
 ## Description de l'œuvre
 
