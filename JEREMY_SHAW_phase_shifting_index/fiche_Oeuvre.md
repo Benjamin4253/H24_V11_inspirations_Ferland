@@ -1,9 +1,9 @@
 # Jeremy Shaw Exhibition - Phase Shifting Index
 
-## Informations sur l'exposition
+<h3>Informations sur l'exposition</h3>
 
-<p> Nom de l'exposition: Jeremy Shaw</p>
-  
+<p> Le nom de l'exposition est: </p>
+  Jeremy Shaw
 ![affiche exposition](medias/affiche_exposition.png)
 
 
