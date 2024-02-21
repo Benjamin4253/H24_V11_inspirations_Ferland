@@ -39,7 +39,9 @@
 <h3> Le type d'installation pour cette oeuvre est: </h3>
   <p> Immersive </p>
    
-<h3>Voici une description de la mise en espace de l'exposition. L'exposition «Phase Shifting Index» prend place dans une salle où sept écrans diffusent des vidéos de danses rituelles. Les visiteurs sont encouragés à se s'assoir sur les bancs pour une expérience immersive. L'éclairage ambiant crée une atmosphère chaleureuse, qui intensifie l'impact des images projetées. L'installation favorise une interaction émotionnelle, incitant les spectateurs à s'engager pleinement dans une expérience artistique.</h3>
+<h3> Voici une description de la mise en espace de l'exposition. </h3> 
+
+<p> L'exposition «Phase Shifting Index» prend place dans une salle où sept écrans diffusent des vidéos de danses rituelles. Les visiteurs sont encouragés à se s'assoir sur les bancs pour une expérience immersive. L'éclairage ambiant crée une atmosphère chaleureuse, qui intensifie l'impact des images projetées. L'installation favorise une interaction émotionnelle, incitant les spectateurs à s'engager pleinement dans une expérience artistique. </p>
 
 ## Composantes et techniques
 
