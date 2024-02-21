@@ -41,6 +41,8 @@
 
 <h3> Le type d'installation pour cette oeuvre est: </h3>
   <p> Immersive </p>
+
+  ![espace](medias/mise_espace.mp4)
    
 <h3> Voici une description de la mise en espace de l'exposition. </h3> 
 
