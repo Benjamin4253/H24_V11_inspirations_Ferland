@@ -82,3 +82,7 @@
 <h4> Voici 1 aspect que vous ne souhaiteriez pas retenir de l'exposition. </h4> 
 
 <p>Un aspect de "Phase Shifting Index" que je modifierais serait peut-être la complexité de la synchronisation entre les vidéos et la musique. Bien que cela crée une expérience immersive, une simplification subtile pourrait rendre l'œuvre plus accessible à un public plus large.</p
+
+## Références
+Le petit livret de présentation celui là.
+![affiche exposition](medias/affiche_exposition.jpg)
