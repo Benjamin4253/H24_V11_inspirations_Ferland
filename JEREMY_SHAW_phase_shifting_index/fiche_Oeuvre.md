@@ -5,6 +5,8 @@
 <h3> Le nom de l'exposition est: </h3>
   <p>Jeremy Shaw Phase Shifting Index</p>
 
+![affiche exposition](medias/affiche_exposition.jpg)
+
   <h3> Le lien d'exposition de l'oeuvre est: </h3>
 <p>Fonderie Darling à Montréal</p>
 
