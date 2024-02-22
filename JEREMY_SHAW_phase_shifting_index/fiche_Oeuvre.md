@@ -43,7 +43,7 @@
 <h3> Le type d'installation pour cette oeuvre est: </h3>
   <p> Immersive </p>
 
-  
+  https://github.com/Benjamin4253/H24_V11_inspirations_Ferland/blob/main/JEREMY_SHAW_phase_shifting_index/medias/entree_edifice.png
    
 <h3> Voici une description de la mise en espace de l'exposition. </h3> 
 
