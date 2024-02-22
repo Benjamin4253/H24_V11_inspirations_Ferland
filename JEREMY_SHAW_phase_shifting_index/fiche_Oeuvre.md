@@ -34,6 +34,7 @@
 
 <p> «Phase Shifting Index» de Jeremy Shaw est une œuvre immersive avec des vidéos de danse comtemporaine sur 7 écrans et une bande sonore. Les visiteurs se déplacent dans la pièce pour une expérience interactive, stimulant la réflexion sur la réalité et la conscience humaine. C'est une expérience artistique vraiment mémorable.</p>
 
+![cartel](medias/cartel.png)
 ![premiere_vue](medias/premiere_vue.png)
 ![deuxieme_vue](medias/deuxieme_vue.png)
 
