@@ -14,9 +14,9 @@
 ## Aperçu de l'Exposition
 
 ### Informations Générales
-- **Nom de l'exposition :** Pointe-à-Calliere-Generations Montréal
-- **Lieu :** Fonderie Darling, Montréal
-- **Date de visite :** 31 janvier 2024
+- **Nom de l'exposition :** Génerations MTL
+- **Lieu :** Pointe-à-Callière, Montréal
+- **Date de visite :** 28 février 2024
 
 ![](medias/affiche_exposition.jpg)
 
@@ -27,9 +27,9 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 
 ## Détails de l'Œuvre Principale
 
-- **Titre :** Phase Shifting Index
-- **Artiste :** Jeremy Shaw
-- **Année :** 2020
+- **Titre :** Génerations MTL
+- **Artiste/Compagnie :** TKNL
+- **Année :** 2019
 
 ![](medias/vue_oeuvre.png)
 
