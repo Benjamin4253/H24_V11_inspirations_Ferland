@@ -15,7 +15,8 @@
 
 ### Informations Générales
 - **Nom de l'exposition :** Génerations MTL
-  ![](medias/affiche_exposition.jpg)
+  
+  <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
 - **Lieu :** Pointe-à-Callière, Montréal
 - **Date de visite :** 28 février 2024
 
