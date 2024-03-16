@@ -57,27 +57,27 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
   
 - **Composantes et Techniques utilisées :**
 
-**1. Projections Multimédias :** 
-Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal
-a changé au fil du temps. Ces images animées montrent différents procédés nécessaires à la création des anciens bâtiments de la ville.
+**1.&nbsp;  Projections Multimédias :**
+Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent différents procédés nécessaires à la création des anciens bâtiments de la ville.
 
-**La première projection représente un système de chauffage :**  
+*La première projection représente un système de chauffage :* 
 
 <img src="medias/projection/projection_systeme_chauffage.jpg" alt="projection_systeme_chauffage" width="150"/>
 
-**La deuxième projection représente un des murs de pierre du sous-sol du "Royal Insurance Building" :** 
+*La deuxième projection représente un des murs de pierre du sous-sol du "Royal Insurance Building" :*
 
 <img src="medias/projection/projection_murs_pierre.jpg" alt="projection_murs_pierre" width="150"/>
 
-**La troisième projection représente un système d'alimentation :**  
+*La troisième projection représente un système d'alimentation :*  
 
 <img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
 
+**2.&nbsp;  Narration Audio :** Certains segments de l'exposition sont accompagnés de narrations audio qui fournissent des informations
+complémentaires sur les différentes périodes de l'histoire de Montréal. Les visiteurs peuvent écouter ces narrations en utilisant des écouteurs
+ou des haut-parleurs intégrés à l'exposition. Cela permet d'enrichir l'expérience en fournissant des détails et des anecdotes intéressantes
+sur les événements et les personnages historiques liés à Montréal.
 
-
-**2.** Installations Interactives : Certaines parties de l'exposition permettent aux visiteurs de participer en touchant des écrans ou en manipulant des objets. Par exemple, il avait des projecteurs sur les murs en briques qui montrait comment la vie était dans le passé. Ces projections rendaient l'expérience plus amusante.
-
-**3.** Artefacts Historiques : En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
+**3. Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
 
 ### Mise en Espace
 L'installation a été conçue pour envelopper le spectateur dans un espace où la frontière entre l'art et le spectateur est floue, renforçant l'impact émotionnel et intellectuel de l'œuvre.
