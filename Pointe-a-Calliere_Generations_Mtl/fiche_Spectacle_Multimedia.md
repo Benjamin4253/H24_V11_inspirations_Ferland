@@ -14,7 +14,7 @@
 ## Aperçu de l'Exposition
 
 ### Informations Générales
-- **Nom de l'exposition :** Jeremy Shaw - Phase Shifting Index
+- **Nom de l'exposition :** Pointe-à-Calliere-Generations Montréal
 - **Lieu :** Fonderie Darling, Montréal
 - **Date de visite :** 31 janvier 2024
 
