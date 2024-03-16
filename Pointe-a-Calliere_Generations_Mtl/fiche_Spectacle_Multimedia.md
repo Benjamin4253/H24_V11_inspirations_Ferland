@@ -3,77 +3,77 @@
 ## Sommaire
 - [Aperçu de l'Exposition](#aperçu-de-lexposition)
 - [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
-- [Analyse de l'Œuvre](#analyse-de-lœuvre)
-- [Caractéristiques Techniques](#caractéristiques-techniques)
-- [Logistique d'Exposition](#logistique-dexposition)
-- [Mon Expérience Personnelle](#mon-expérience-personnelle)
-- [Impressions et Réflexions](#impressions-et-réflexions)
-- [Conclusion](#conclusion)
+- [Description de l'œuvre](#description-de-lœuvre)
+- [Caractéristiques de l'installation](#caractéristiques-de-linstallation)
+- [Mise en espace](#mise-en-espace)
+- [Composantes et techniques](#composantes-et-techniques)
+- [Éléments nécessaires à la mise en exposition](#éléments-nécessaires-à-la-mise-en-exposition)
+- [Expérience vécue](#expérience-vécue)
+- [Ce qui m'a plu, m'a donné des idées](#ce-qui-ma-plu-ma-donné-des-idées)
+- [Aspect que je ne souhaiterais pas retenir](#aspect-que-je-ne-souhaiterais-pas-retenir)
 - [Références](#références)
 
 ## Aperçu de l'Exposition
 
 ### Informations Générales
 - **Nom de l'exposition :** Générations MTL
-  
-  <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
-- **Lieu :** Pointe-à-Callière, Montréal
-
+- **Affiche de l'exposition :** <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
+- **Lieu de mise en exposition :** Pointe-à-Callière, Montréal
   <img src="medias/edifice_vue_entree.jpg" alt="affiche exposition" width="200"/>
-- **Date de visite :** 28 février 2024
-
-
-
-### Présentation
-L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience immersive à travers une installation vidéo multi-écran, explorant les frontières entre réalité et conscience à travers la danse contemporaine.
-
-![](medias/entree_edifice.png)
-
+- **Type d'exposition :** Immersive
+- **Date de votre visite :** 28 février 2024
 ## Détails de l'Œuvre Principale
 
-- **Titre :** Générations MTL
-- **Firme :** TKNL
-- **Année :** 2019
+- **Titre de l'œuvre :** Phase Shifting Index
+- **Vue d'ensemble de l'œuvre :** ![Vue œuvre](medias/vue_oeuvre.png)
+- **Artiste :** Jeremy Shaw
+- **Année de réalisation :** 2020
 
-![](medias/vue_oeuvre.png)
+## Description de l'œuvre
 
-## Analyse de l'Œuvre
+*Phase Shifting Index* de Jeremy Shaw est une installation immersive combinant des vidéos sur sept écrans avec une bande sonore synchronisée. Les visiteurs se déplacent dans la pièce pour une expérience interactive, stimulant la réflexion sur la réalité et la conscience humaine.
 
-*Phase Shifting Index* se présente comme une œuvre captivante qui engage le spectateur dans un dialogue intérieur sur la perception de la réalité et de soi. L'installation immersive utilise des projections vidéo sur sept écrans, accompagnées d'une bande sonore envoûtante, pour créer un espace de réflexion profonde.
+![Cartel et diverses vues](medias/cartel.png)
 
-![](medias/cartel.png)
+## Caractéristiques de l'installation
 
-## Caractéristiques Techniques
+### Type d'installation
+Immersive
 
-### Installation
-- **Type :** Immersive
-- **Composantes :** Vidéos sur sept écrans, bande sonore synchronisée
-- **Techniques utilisées :** Montage vidéo multi-écran, composition sonore immersive
+### Fonction du dispositif multimédia
+La projection sur sept écrans crée une ambiance immersive qui guide les spectateurs dans une réflexion profonde sur la nature de la réalité.
 
-![](medias/mise_espace.mp4)
+![Vue parlante](medias/vue_oeuvre.png)
 
-### Mise en Espace
-L'installation a été conçue pour envelopper le spectateur dans un espace où la frontière entre l'art et le spectateur est floue, renforçant l'impact émotionnel et intellectuel de l'œuvre.
+## Mise en espace
 
-## Logistique d'Exposition
+L'exposition *Phase Shifting Index* prend place dans une salle spacieuse où les sept écrans sont disposés de manière à envelopper les visiteurs dans l'œuvre de Shaw. 
 
-La mise en place de l'exposition a nécessité une préparation minutieuse, incluant l'aménagement d'une salle spécifique, l'installation d'équipements audiovisuels haut de gamme, et la création d'une ambiance propice à l'immersion.
+![Vue d'ensemble de la pièce](medias/vue_oeuvre.png)
 
-## Mon Expérience Personnelle
+## Composantes et techniques
 
-Visiter *Phase Shifting Index* a été une expérience révélatrice, la synergie entre les images et la musique a provoqué une profonde réflexion sur la nature humaine et notre perception du réel.
+L'installation utilise des vidéos de danse contemporaine synchronisées avec une bande sonore, créant ainsi une expérience sensorielle unique.
 
-## Impressions et Réflexions
+## Éléments nécessaires à la mise en exposition
 
-L'exposition m'a inspiré à envisager de nouvelles manières d'intégrer différentes formes d'art pour créer des expériences uniques et mémorables. Elle souligne l'importance de la collaboration créative et de l'innovation dans le domaine artistique.
+- Bancs pour les visiteurs
+- Système audio de qualité
+- Éclairage adapté
 
-### Suggestions
-Bien que l'expérience globale soit enrichissante, une simplification de certains aspects techniques pourrait rendre l'œuvre plus accessible sans en diminuer la profondeur.
+## Expérience vécue
 
-## Conclusion
+Ma visite de *Phase Shifting Index* m'a transporté dans un monde de réflexion et d'émotion. En déambulant parmi les écrans, j'ai ressenti une connexion profonde avec l'œuvre et une interrogation sur ma propre perception de la réalité.
 
-L'exposition *Phase Shifting Index* de Jeremy Shaw offre un aperçu fascinant sur les possibilités de l'art contemporain pour provoquer la réflexion et l'émotion. Elle représente un investissement significatif dans la compréhension des interactions humaines avec l'art et la technologie.
+## Ce qui m'a plu, m'a donné des idées
+
+J'ai été impressionné par la manière dont Jeremy Shaw a réussi à créer une expérience immersive qui allie musique, mouvement et réflexion. Cela m'a inspiré à explorer de nouvelles possibilités d'intégration de différentes formes d'art dans mes propres créations.
+
+## Aspect que je ne souhaiterais pas retenir
+
+Bien que l'expérience ait été globalement enrichissante, j'aurais aimé voir une meilleure gestion de l'affluence pour permettre une immersion plus profonde dans l'œuvre.
 
 ## Références
 
-- Petit livret de présentation de l'exposition.
+- Site Web de Jeremy Shaw
+- Documentation de l'exposition de la Fonderie Darling
