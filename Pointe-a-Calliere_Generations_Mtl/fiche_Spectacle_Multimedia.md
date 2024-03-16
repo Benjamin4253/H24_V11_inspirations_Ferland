@@ -62,7 +62,7 @@ a changé au fil du temps. Ces images animées montrent les matériaux nécessai
 
 **La première projection représente un système de chauffage :**
 
-<img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
+<img src="medias/projection_fosse_cendres.jpg" alt="projection_fosse_cendres" width="200"/>
 
 **2.** Installations Interactives : Certaines parties de l'exposition permettent aux visiteurs de participer en touchant des écrans ou en manipulant des objets. Par exemple, il avait des projecteurs sur les murs en briques qui montrait comment la vie était dans le passé. Ces projections rendaient l'expérience plus amusante.
 
