@@ -51,7 +51,9 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 ## Caractéristiques Techniques
 
 ### Installation
+
 - **Type :** Immersive
+- 
 - **Composantes et Techniques utilisées :**
 
 **1.** Projections Multimédias : Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent des scènes de l'histoire de la ville, comme les bâtiments anciens ou les événements importants.
