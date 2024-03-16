@@ -32,7 +32,7 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 ## Détails de l'Œuvre Principale
 
 - **Titre :** Générations MTL
-- **Artiste/Compagnie :** TKNL
+- **Firme :** TKNL
 - **Année :** 2019
 
 ![](medias/vue_oeuvre.png)
