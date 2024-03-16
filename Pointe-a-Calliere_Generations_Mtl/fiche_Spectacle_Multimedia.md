@@ -72,10 +72,7 @@ Le musée utilise des vidéos et des images projetées sur des écrans pour mont
 
 <img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
 
-**2.&nbsp;  Narration Audio :** Certains segments de l'exposition sont accompagnés de narrations audio qui fournissent des informations
-complémentaires sur les différentes périodes de l'histoire de Montréal. Les visiteurs peuvent écouter ces narrations en utilisant des écouteurs
-ou des haut-parleurs intégrés à l'exposition. Cela permet d'enrichir l'expérience en fournissant des détails et des anecdotes intéressantes
-sur les événements et les personnages historiques liés à Montréal.
+**2.&nbsp;  Narration Audio :** Certains segments de l'exposition sont accompagnés de récits audio qui expliquent davantage l'histoire de Montréal. Les visiteurs peuvent écouter ces récits en utilisant des écouteurs ou des haut-parleurs installés dans la salle. Cela ajoute une dimension supplémentaire à l'expérience en leur permettant d'en apprendre davantage sur les événements passés de manière accessible.
 
 **3. Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
 
