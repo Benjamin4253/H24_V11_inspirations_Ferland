@@ -5,7 +5,7 @@
   - [Informations Générales](#informations-générales)
   - [Présentation](#présentation)
 - [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
-- [Analyse de l'Œuvre](#analyse-de-lœuvre)
+- [Description de l'Œuvre](#analyse-de-lœuvre)
 - [Caractéristiques Techniques](#caractéristiques-techniques)
   - [Installation](#installation)
   - [Mise en Espace](#mise-en-espace)
@@ -38,15 +38,15 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 - **Titre :** Générations MTL
   
   <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
+  
 - **Firme :** TKNL
 - **Année :** 2019
 
 
-## Analyse de l'Œuvre
+## Description de l'Œuvre
 
-*Phase Shifting Index* se présente comme une œuvre captivante qui engage le spectateur dans un dialogue intérieur sur la perception de la réalité et de soi. L'installation immersive utilise des projections vidéo sur sept écrans, accompagnées d'une bande sonore envoûtante, pour créer un espace de réflexion profonde.
+Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines antiques ! *Générations MTL*, un spectacle vidéo unique, allie technologie et créativité pour captiver. Voyagez à travers les moments forts de la ville, découvrez ses bâtisseurs. Suivez le récit de six personnages, héritiers de traditions, qui racontent leur Montréal. Vibrez pendant 17 minutes au rythme de cette histoire spectaculaire, mettant en avant la technologie montréalaise. L'histoire prend vie devant vos yeux !
 
-![](medias/cartel.png)
 
 ## Caractéristiques Techniques
 
