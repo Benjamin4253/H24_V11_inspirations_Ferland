@@ -80,4 +80,21 @@ L'exposition *Phase Shifting Index* de Jeremy Shaw offre un aperçu fascinant su
 
 ## Références
 
-- Petit livret de présentation de l'exposition.
+- Affiche exposition : 
+  - Site Web : [www.nomdusite.com/affiche](www.nomdusite.com/affiche)
+  - Photographe : Nom de la personne
+  
+
+  
+- Vue œuvre globale :
+  - Site Web : [www.nomdusite.com/vue](www.nomdusite.com/vue)
+  - Photographe : Nom de la personne
+  
+- Cartel et diverses vues :
+  - Site Web : [www.nomdusite.com/cartel](www.nomdusite.com/cartel)
+  - Photographe : Nom de la personne
+  
+- Mise en espace :
+  - Site Web : [www.nomdusite.com/mise-en-espace](www.nomdusite.com/mise-en-espace)
+  - Photographe : Nom de la personne
+  
