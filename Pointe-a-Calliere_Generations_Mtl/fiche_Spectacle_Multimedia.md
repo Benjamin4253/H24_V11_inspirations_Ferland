@@ -1,4 +1,4 @@
-# Exposition Pointe-à-Callière - Generations_Mtl
+# Exposition Pointe-à-Callière - Generations Mtl
 
 ## Sommaire
 - [Aperçu de l'Exposition](#aperçu-de-lexposition)
