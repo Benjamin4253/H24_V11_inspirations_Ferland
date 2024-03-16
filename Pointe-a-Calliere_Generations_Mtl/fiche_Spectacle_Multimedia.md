@@ -24,7 +24,7 @@
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
 - **Lieu :** Pointe-à-Callière, Montréal
   
-  <img src="medias/edifice_vue_entree.jpg" alt="affiche exposition" width="200"/>
+  <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="200"/>
 - **Date de visite :** 28 février 2024
 
 
@@ -36,10 +36,11 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 ## Détails de l'Œuvre Principale
 
 - **Titre :** Générations MTL
+  
+  <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
 - **Firme :** TKNL
 - **Année :** 2019
 
-![](medias/vue_oeuvre.png)
 
 ## Analyse de l'Œuvre
 
