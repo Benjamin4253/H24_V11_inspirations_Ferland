@@ -1,4 +1,4 @@
-# Exposition Jeremy Shaw - Phase Shifting Index
+# Exposition Pointe-à-Callière - Generations_Mtl
 
 ## Sommaire
 - [Aperçu de l'Exposition](#aperçu-de-lexposition)
