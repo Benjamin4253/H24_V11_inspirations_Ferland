@@ -58,6 +58,13 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 - **Composantes et Techniques utilisées :**
 
 **1.&nbsp;  Projections Multimédias :**
+
+
+# Rendu ici pour la prochaine fois que je vais travailler!! #
+
+
+**3.&nbsp;  Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
+
 Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent différents procédés nécessaires à la création des anciens bâtiments de la ville.
 
 *La première projection représente un système de chauffage :* 
@@ -72,9 +79,9 @@ Le musée utilise des vidéos et des images projetées sur des écrans pour mont
 
 <img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
 
-**2.&nbsp;  Narration Audio :** Certains segments de l'exposition sont accompagnés de récits audio qui expliquent davantage l'histoire de Montréal. Les visiteurs peuvent écouter ces récits en utilisant des écouteurs ou des haut-parleurs installés dans la salle. Cela ajoute une dimension supplémentaire à l'expérience en leur permettant d'en apprendre davantage sur les événements passés de manière accessible.
 
-**3. Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
+
+
 
 ### Mise en Espace
 L'installation a été conçue pour envelopper le spectateur dans un espace où la frontière entre l'art et le spectateur est floue, renforçant l'impact émotionnel et intellectuel de l'œuvre.
