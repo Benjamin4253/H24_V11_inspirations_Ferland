@@ -57,7 +57,10 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
   
 - **Composantes et Techniques utilisées :**
 
-**1.** Projections Multimédias : Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent des scènes de l'histoire de la ville, comme les bâtiments anciens ou les événements importants.
+**1.** Projections Multimédias : Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal
+a changé au fil du temps. Ces images animées montrent les matériaux nécessaires à la création des anciens bâtiments de la ville.
+
+**La première projection représente un système de chauffage :**
 
 
 **2.** Installations Interactives : Certaines parties de l'exposition permettent aux visiteurs de participer en touchant des écrans ou en manipulant des objets. Par exemple, il avait des projecteurs sur les murs en briques qui montrait comment la vie était dans le passé. Ces projections rendaient l'expérience plus amusante.
