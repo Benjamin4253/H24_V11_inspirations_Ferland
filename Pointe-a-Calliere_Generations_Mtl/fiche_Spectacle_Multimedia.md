@@ -2,12 +2,17 @@
 
 ## Sommaire
 - [Aperçu de l'Exposition](#aperçu-de-lexposition)
+  - [Informations Générales](#informations-générales)
+  - [Présentation](#présentation)
 - [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
 - [Analyse de l'Œuvre](#analyse-de-lœuvre)
 - [Caractéristiques Techniques](#caractéristiques-techniques)
+  - [Installation](#installation)
+  - [Mise en Espace](#mise-en-espace)
 - [Logistique d'Exposition](#logistique-dexposition)
 - [Mon Expérience Personnelle](#mon-expérience-personnelle)
 - [Impressions et Réflexions](#impressions-et-réflexions)
+  - [Suggestions](#suggestions)
 - [Conclusion](#conclusion)
 - [Références](#références)
 
