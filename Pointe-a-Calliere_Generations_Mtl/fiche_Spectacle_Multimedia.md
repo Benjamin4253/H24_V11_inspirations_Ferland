@@ -14,7 +14,7 @@
 ## Aperçu de l'Exposition
 
 ### Informations Générales
-- **Nom de l'exposition :** Génerations MTL
+- **Nom de l'exposition :** Générations MTL
   
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
 - **Lieu :** Pointe-à-Callière, Montréal
@@ -29,7 +29,7 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 
 ## Détails de l'Œuvre Principale
 
-- **Titre :** Génerations MTL
+- **Titre :** Générations MTL
 - **Artiste/Compagnie :** TKNL
 - **Année :** 2019
 
