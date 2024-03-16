@@ -40,6 +40,7 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
   <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
   
 - **Firme :** TKNL
+
 - **Année :** 2019
 
 
@@ -53,21 +54,15 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 ### Installation
 
 - **Type :** Immersive
-- 
+  
 - **Composantes et Techniques utilisées :**
 
 **1.** Projections Multimédias : Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent des scènes de l'histoire de la ville, comme les bâtiments anciens ou les événements importants.
 
-**2.** Installations Interactives : Certaines parties de l'exposition permettent aux visiteurs de participer en touchant des écrans ou en manipulant des objets. Par exemple, il pourrait y avoir des jeux ou des simulations qui montrent comment la vie était dans le passé. Ces activités rendent l'expérience plus amusante et permettent aux gens d'apprendre en faisant. 
+
+**2.** Installations Interactives : Certaines parties de l'exposition permettent aux visiteurs de participer en touchant des écrans ou en manipulant des objets. Par exemple, il avait des projecteurs sur les murs en briques qui montrait comment la vie était dans le passé. Ces projections rendaient l'expérience plus amusante.
 
 **3.** Artefacts Historiques : En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
-  
-
-
-
-
-
-![](medias/mise_espace.mp4)
 
 ### Mise en Espace
 L'installation a été conçue pour envelopper le spectateur dans un espace où la frontière entre l'art et le spectateur est floue, renforçant l'impact émotionnel et intellectuel de l'œuvre.
