@@ -52,8 +52,14 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 
 ### Installation
 - **Type :** Immersive
-- **Composantes :** Vidéos sur sept écrans, bande sonore synchronisée
-- **Techniques utilisées :** Montage vidéo multi-écran, composition sonore immersive
+- **3 Composantes et Techniques utilisées :**
+
+  #### 1.
+  Projections Multimédias : Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent des scènes de l'histoire de la ville, comme les bâtiments anciens ou les événements importants.
+
+Installations Interactives : Certaines parties de l'exposition permettent aux visiteurs de participer en touchant des écrans ou en manipulant des objets. Par exemple, il pourrait y avoir des jeux ou des simulations qui montrent comment la vie était dans le passé. Ces activités rendent l'expérience plus amusante et permettent aux gens d'apprendre en faisant.
+
+Artefacts Historiques : En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
 
 ![](medias/mise_espace.mp4)
 
