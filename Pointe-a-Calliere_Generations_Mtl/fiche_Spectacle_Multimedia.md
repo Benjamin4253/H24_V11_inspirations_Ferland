@@ -64,7 +64,7 @@ a changé au fil du temps. Ces images animées montrent différents procédés n
 <img src="medias/projection_fosse_cendres.jpg" alt="projection_fosse_cendres" width="150"/>
 
 **La deuxième projection représente le mur de pierre du sous-sol du "Royal Insurance Building" :**  
-<img src="medias/projection_fosse_cendres.jpg" alt="projection_fosse_cendres" width="150"/>
+<img src="medias/projection_murs_pierre.jpg" alt="projection_murs_pierre" width="150"/>
 
 
 
