@@ -15,10 +15,11 @@
 
 ### Informations Générales
 - **Nom de l'exposition :** Génerations MTL
+  ![](medias/affiche_exposition.jpg)
 - **Lieu :** Pointe-à-Callière, Montréal
 - **Date de visite :** 28 février 2024
 
-![](medias/affiche_exposition.jpg)
+
 
 ### Présentation
 L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience immersive à travers une installation vidéo multi-écran, explorant les frontières entre réalité et conscience à travers la danse contemporaine.
