@@ -62,13 +62,16 @@ Le musée utilise des vidéos et des images projetées sur des écrans pour mont
 a changé au fil du temps. Ces images animées montrent différents procédés nécessaires à la création des anciens bâtiments de la ville.
 
 **La première projection représente un système de chauffage :**  
-<img src="medias/projection_fosse_cendres.jpg" alt="projection_fosse_cendres" width="150"/>
+
+<img src="medias/projection/projection_systeme_chauffage.jpg" alt="projection_systeme_chauffage" width="150"/>
 
 **La deuxième projection représente un des murs de pierre du sous-sol du "Royal Insurance Building" :** 
-<img src="medias/projection_murs_pierre.jpg" alt="projection_murs_pierre" width="150"/>
+
+<img src="medias/projection/projection_murs_pierre.jpg" alt="projection_murs_pierre" width="150"/>
 
 **La troisième projection représente un système d'alimentation :**  
-<img src="medias/projection_fosse_cendres.jpg" alt="projection_fosse_cendres" width="150"/>
+
+<img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
 
 
 
