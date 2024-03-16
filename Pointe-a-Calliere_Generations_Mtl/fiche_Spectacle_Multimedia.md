@@ -22,7 +22,6 @@
   <img src="medias/edifice_vue_entree.jpg" alt="affiche exposition" width="200"/>
 - **Date de visite :** 28 février 2024
 
-![](medias/affiche_exposition.jpg)
 
 ### Présentation
 L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience immersive à travers une installation vidéo multi-écran, explorant les frontières entre réalité et conscience à travers la danse contemporaine.
