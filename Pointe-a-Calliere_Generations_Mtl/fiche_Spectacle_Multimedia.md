@@ -23,9 +23,9 @@
   
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
 
-  **Légende:** affiche exposition
+<span style="font-size:1px;">Légende: affiche exposition</span> <br>
+<span style="font-size:1px;">Source: <a href="https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html">https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html</a></span>
 
-  **Source:** [https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html](https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html)
 
 - **Lieu :** Pointe-à-Callière, Montréal
   
