@@ -118,7 +118,7 @@ L'exposition *Phase Shifting Index* de Jeremy Shaw offre un aperçu fascinant su
 ## Références
 
 - Affiche exposition : 
-  - Site Web : [www.nomdusite.com/affiche](www.nomdusite.com/affiche)
+  - Site Web : [www.nomdusite.com/affiche](www.nomdusite.com/affiche)](https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html)
   - Photographe : Nom de la personne
   
 
