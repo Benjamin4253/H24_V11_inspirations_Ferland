@@ -27,7 +27,7 @@
   <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="200"/>
 - **Date de visite :** 28 février 2024
 
-- **Date de visite :**
+- **Type d'exposition :** permanente et intérieure.
 
 
 ### Présentation
