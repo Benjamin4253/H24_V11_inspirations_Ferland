@@ -53,7 +53,7 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 
 ### Installation
 
-- **Type :** Immersive
+- **Type :** Immersive <video src="medias/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
   
 - **Composantes et Techniques utilisées :**
 
@@ -77,11 +77,21 @@ Le musée utilise des vidéos et des images projetées sur des écrans pour mont
 
 
 ### Mise en Espace
-L'installation a été conçue pour envelopper le spectateur dans un espace où la frontière entre l'art et le spectateur est floue, renforçant l'impact émotionnel et intellectuel de l'œuvre.
 
-## Logistique d'Exposition
+??
 
-La mise en place de l'exposition a nécessité une préparation minutieuse, incluant l'aménagement d'une salle spécifique, l'installation d'équipements audiovisuels haut de gamme, et la création d'une ambiance propice à l'immersion.
+## Mise en Exposition
+
+**Projecteur:** Des supports solides sont utilisés pour maintenir les écrans de projection en place de manière stable.
+
+Câblage et Gestion des Fils:
+
+Un système de câblage est organisé pour assurer la connectivité des équipements audiovisuels et électriques, avec des caches-fils pour un aspect visuel propre.
+
+
+Éclairage Ambiant pour une Mise en Valeur Optimale
+
+L'éclairage ambiant est installé pour mettre en valeur les projections et les installations interactives, avec des projecteurs d'éclairage directionnel pour accentuer les éléments clés.
 
 ## Mon Expérience Personnelle
 
