@@ -61,7 +61,6 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 
 **2.&nbsp;  Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
 
-Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent différents procédés nécessaires à la création des anciens bâtiments de la ville.
 
 *La première projection représente un système de chauffage :* 
 
@@ -82,16 +81,22 @@ Le musée utilise des vidéos et des images projetées sur des écrans pour mont
 
 ## Mise en Exposition
 
-**Projecteur:** Des supports solides sont utilisés pour maintenir les écrans de projection en place de manière stable.
+**Supports de Projection:**
 
-Câblage et Gestion des Fils:
+-  Des supports solides sont utilisés pour maintenir les écrans de projection en place de manière stable.
 
-Un système de câblage est organisé pour assurer la connectivité des équipements audiovisuels et électriques, avec des caches-fils pour un aspect visuel propre.
+**Câblage et Gestion des Fils:**
 
+-  Des organisateurs de câbles dissimulent et rangent les câbles le long des murs ou du sol.
 
-Éclairage Ambiant pour une Mise en Valeur Optimale
+-  Des caches-fils discrets préviennent les risques de trébuchement en masquant les câbles.
 
-L'éclairage ambiant est installé pour mettre en valeur les projections et les installations interactives, avec des projecteurs d'éclairage directionnel pour accentuer les éléments clés.
+**Éclairage Ambiant:**
+
+-  Des variateurs d'intensité lumineuse ajustent l'éclairage selon les besoins.
+-  Des éclairages LED qui créent une ambiance immersive.
+
+<img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
 
 ## Mon Expérience Personnelle
 
