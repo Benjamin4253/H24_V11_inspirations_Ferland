@@ -23,14 +23,16 @@
   
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
 
-**Légende:** affiche exposition
+  **Légende:** affiche exposition
 
-**Source:** [https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html](https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html)
+  **Source:** [https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html](https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html)
 
- 
 - **Lieu :** Pointe-à-Callière, Montréal
   
   <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="200"/>
+  
+  **Légende:** édifice vue entrée
+  
 - **Date de visite :** 28 février 2024
 
 - **Type d'exposition :** permanente et intérieure.
