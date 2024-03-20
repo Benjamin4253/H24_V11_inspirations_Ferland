@@ -22,6 +22,12 @@
 - **Nom de l'exposition :** Générations MTL
   
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
+
+**Légende:** affiche exposition
+
+**Source:** [https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html](https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html)
+
+ 
 - **Lieu :** Pointe-à-Callière, Montréal
   
   <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="200"/>
@@ -118,7 +124,7 @@ L'exposition *Phase Shifting Index* de Jeremy Shaw offre un aperçu fascinant su
 ## Références
 
 - Affiche exposition : 
-  - Site Web : https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html
+  - Site Web : 
   - Photographe : Nom de la personne
   
 
