@@ -22,9 +22,9 @@
 - **Nom de l'exposition :** Générations MTL
   
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
+<h5>Légende: affiche exposition</h5>
 
-<span style="font-size:1px;">Légende: affiche exposition</span> <br>
-<span style="font-size:1px;">Source: <a href="https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html">https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html</a></span>
+<h5>Source: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html">https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html</h5>
 
 
 - **Lieu :** Pointe-à-Callière, Montréal
