@@ -75,6 +75,7 @@ Le musée utilise des vidéos et des images projetées sur des écrans pour mont
 
 <img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
 
+
 ### Mise en Espace
 L'installation a été conçue pour envelopper le spectateur dans un espace où la frontière entre l'art et le spectateur est floue, renforçant l'impact émotionnel et intellectuel de l'œuvre.
 
