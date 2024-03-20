@@ -57,13 +57,9 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
   
 - **Composantes et Techniques utilisées :**
 
-**1.&nbsp;  Projections Multimédias :**
+**1.&nbsp;  Projections Multimédias :** Le musée utilise des vidéos et des images projetées sur des surfaces parfois irrégulières, (projection mapping). Cela permet d'adapter l'image projetée à la forme de la surface, rendant l'effet plus réaliste et captivant qui créer une expérience immersive qui transporte les visiteurs dans le temps, leur permettant de sentir et de comprendre la vie dans le Montréal historique.
 
-
-# Rendu ici pour la prochaine fois que je vais travailler!! #
-
-
-**3.&nbsp;  Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
+**2.&nbsp;  Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
 
 Le musée utilise des vidéos et des images projetées sur des écrans pour montrer aux visiteurs comment Montréal a changé au fil du temps. Ces images animées montrent différents procédés nécessaires à la création des anciens bâtiments de la ville.
 
@@ -78,10 +74,6 @@ Le musée utilise des vidéos et des images projetées sur des écrans pour mont
 *La troisième projection représente un système d'alimentation :*  
 
 <img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
-
-
-
-
 
 ### Mise en Espace
 L'installation a été conçue pour envelopper le spectateur dans un espace où la frontière entre l'art et le spectateur est floue, renforçant l'impact émotionnel et intellectuel de l'œuvre.
