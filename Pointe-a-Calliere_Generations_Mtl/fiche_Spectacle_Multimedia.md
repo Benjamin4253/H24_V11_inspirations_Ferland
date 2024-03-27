@@ -77,7 +77,11 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 <img src="medias/œuvre_vue_partie_gauche.png" alt="œuvre vue partie gauche" width="200"/>
 <h5>Légende: œuvre vue frontale</h5>
 
+   *Cartel sur le site web: Depuis les gradins surplombant d’impressionnants vestiges archéologiques, l’histoire de Montréal revit sous vos yeux! Projeté sur une installation scénique unique au monde, le spectacle multimédia Générations MTL vous émerveillera tant par ses prouesses technologiques que par sa     sensibilité artistique. Telle une machine à remonter le temps, le spectacle vous entraine au cœur des événements marquants de la ville, à la découverte des gens qui ont contribué à bâtir Montréal. Laissez-vous porter par le récit enchanteur de six personnages qui, fiers héritiers des traditions de leurs       ancêtres, vous raconteront leur Montréal et ce qui en fait une métropole aussi unique. Vibrez au rythme de ce spectaculaire récit de 17 minutes mettant à profit des moyens technologiques qui font la réputation de Montréal.
+  Jamais l’histoire n’aura été si vivante!*
 
+  *Source du cartel: https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/</h4>*
+ 
 ## Caractéristiques Techniques
 
 ### Installation
