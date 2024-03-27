@@ -22,16 +22,16 @@
 - **Nom de l'exposition :** Générations MTL
   
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
-<h5>Légende: affiche exposition</h5>
-
-<h5>Source: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html">https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html</h5>
+<h5>Légende: affiche exposition
+  
+Source: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html">https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montreal-plus-vivant-que-jamais--848569888.html</h5>
 
 
 - **Lieu :** Pointe-à-Callière, Montréal
   
   <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="200"/>
-  
-  **Légende:** édifice vue entrée
+
+<h5>Légende: édifice vue entrée</h5>
   
 - **Date de visite :** 28 février 2024
 
@@ -48,6 +48,10 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 - **Titre :** Générations MTL
   
   <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
+  <h5>Légende: œuvre vue globale
+    
+  Source: https://www.passeportvacances.com/forfaits-musee-pointe-a-calliere-montreal-exposition-activite-familiale-culture-archeologie-tarif-direction
+  Photographe: Romain Guilbault</h5>
   
 - **Firme :** TKNL
 
