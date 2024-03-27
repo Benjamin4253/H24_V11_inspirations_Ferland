@@ -96,6 +96,8 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 ### Mise en Espace
 
 
+# Manque un appui visuel
+La "mise en espace" est abordée dans le texte sans support visuel comme un croquis de la mise en espace ou une vue d'ensemble de la pièce avec dimensions.
 
 ## Mise en Exposition
 
