@@ -26,7 +26,6 @@
 
 
 
-
 ## Aperçu de l'Exposition
 
 ### Informations Générales
