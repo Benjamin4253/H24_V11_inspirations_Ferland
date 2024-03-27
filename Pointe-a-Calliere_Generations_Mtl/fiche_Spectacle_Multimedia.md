@@ -62,6 +62,8 @@ L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience imme
 
 Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines antiques ! *Générations MTL*, un spectacle vidéo unique, allie technologie et créativité pour captiver. Voyagez à travers les moments forts de la ville, découvrez ses bâtisseurs. Suivez le récit de six personnages, héritiers de traditions, qui racontent leur Montréal. Vibrez pendant 17 minutes au rythme de cette histoire spectaculaire, mettant en avant la technologie montréalaise. L'histoire prend vie devant vos yeux !
 
+# Manque un appui visuel
+*La "Description de l'oeuvre" est abordée dans le texte sans support visuel comme le cartel + diverses vues*
 
 ## Caractéristiques Techniques
 
