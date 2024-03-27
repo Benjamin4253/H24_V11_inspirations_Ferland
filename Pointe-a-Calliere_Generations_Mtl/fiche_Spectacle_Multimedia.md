@@ -2,19 +2,28 @@
 
 ## Sommaire
 - [Aperçu de l'Exposition](#aperçu-de-lexposition)
-  - [Informations Générales](#informations-générales)
-  - [Présentation](#présentation)
+  - [Informations Générales](#11-informations-générales)
+  - [Présentation](#12-présentation)
 - [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
+  - [Titre : Générations MTL](#21-titre--générations-mtl)
+  - [Firme : TKNL](#22-firme--tknl)
+  - [Année : 2019](#23-année--2019)
 - [Description de l'Œuvre](#description-de-lœuvre)
 - [Caractéristiques Techniques](#caractéristiques-techniques)
   - [Installation](#installation)
+    - [Projections Multimédias](#411-projections-multimédias)
+    - [Artefacts Historiques](#412-artefacts-historiques)
   - [Mise en Espace](#mise-en-espace)
+    - [Supports de Projection](#421-supports-de-projection)
+    - [Câblage et Gestion des Fils](#422-câblage-et-gestion-des-fils)
+    - [Éclairage Ambiant](#423-éclairage-ambiant)
 - [Logistique d'Exposition](#logistique-dexposition)
 - [Mon Expérience Personnelle](#mon-expérience-personnelle)
 - [Impressions et Réflexions](#impressions-et-réflexions)
   - [Suggestions](#suggestions)
 - [Conclusion](#conclusion)
 - [Références](#références)
+
 
 ## Aperçu de l'Exposition
 
