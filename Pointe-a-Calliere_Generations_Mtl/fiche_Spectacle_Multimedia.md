@@ -89,7 +89,7 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 *La troisième projection représente un système d'alimentation :*  
 
 <img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
-
+<h5>Légende: projection systeme alimentation</h5>
 
 ### Mise en Espace
 
