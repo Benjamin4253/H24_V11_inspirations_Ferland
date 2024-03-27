@@ -5,9 +5,9 @@
   - [Informations Générales](#informations-générales)
   - [Présentation](#présentation)
 - [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
-  [Titre : Générations MTL](#titre--générations-mtl)
-  [Firme : TKNL](#firme--tknl)
-  [Année : 2019](#année--2019)
+  -   [Titre : Générations MTL](#titre--générations-mtl)
+  -   [Firme : TKNL](#firme--tknl)
+  -   [Année : 2019](#année--2019)
 - [Description de l'Œuvre](#description-de-lœuvre)
 - [Caractéristiques Techniques](#caractéristiques-techniques)
   - [Installation](#installation)
@@ -23,6 +23,7 @@
   - [Suggestions](#suggestions)
 - [Conclusion](#conclusion)
 - [Références](#références)
+
 
 
 
