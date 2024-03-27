@@ -68,6 +68,8 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 ### Installation
 
 - **Type :** Immersive <video src="medias/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
+
+<h5>Manque un appui visuel</h5>
   
 - **Composantes et Techniques utilisées :**
 
