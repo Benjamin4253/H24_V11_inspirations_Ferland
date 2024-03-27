@@ -6,7 +6,7 @@
   - [Présentation](#12-présentation)
 - [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
   - [Titre : Générations MTL](#21-titre--générations-mtl)
-  - [Firme : TKNL](#22-firme--tknl)
+  - [Firme : TKNL](-firme--tknl)
   - [Année : 2019](#23-année--2019)
 - [Description de l'Œuvre](#description-de-lœuvre)
 - [Caractéristiques Techniques](#caractéristiques-techniques)
