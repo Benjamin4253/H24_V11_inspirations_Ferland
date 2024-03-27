@@ -79,10 +79,12 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 *La première projection représente un système de chauffage :* 
 
 <img src="medias/projection/projection_systeme_chauffage.jpg" alt="projection_systeme_chauffage" width="150"/>
+<h5>Légende: projection systeme chauffage</h5>
 
 *La deuxième projection représente un des murs de pierre du sous-sol du "Royal Insurance Building" :*
 
 <img src="medias/projection/projection_murs_pierre.jpg" alt="projection_murs_pierre" width="150"/>
+<h5>Légende: projection murs pierre</h5>
 
 *La troisième projection représente un système d'alimentation :*  
 
