@@ -88,7 +88,7 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 
 - **Type :** Immersive
 
-(https://youtu.be/CzKovrjxIaU)
+[(https://youtu.be/CzKovrjxIaU)](https://youtu.be/CzKovrjxIaU)
 
 # Manque un appui visuel
 *Le "Type d'installation" est abordée dans le texte sans support visuel comme une Vue parlante - vidéo ET photo qui nous permettent de bien comprendre le type d'installation*
