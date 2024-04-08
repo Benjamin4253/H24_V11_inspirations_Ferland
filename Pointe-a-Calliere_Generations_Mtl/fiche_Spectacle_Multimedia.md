@@ -82,12 +82,13 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 - **Type :** Immersive
 
 [(https://youtu.be/CzKovrjxIaU)](https://youtu.be/CzKovrjxIaU)
+<h5>Légende: œuvre vue parlante</h5>
 
-<h5>Légende: œuvre vue frontale</h5>
 <img src="medias/œuvre_vue_frontale.png" alt="œuvre vue frontale" width="200"/>
+<h5>Légende: œuvre vue frontale</h5>
 
-<h5>Légende: œuvre vue arriere</h5>
 <img src="medias/œuvre_vue_arriere.JPG" alt="œuvre vue arriere" width="200"/>
+<h5>Légende: œuvre vue arriere</h5>
 
 ### Fonction du dispositif multimédia
 
