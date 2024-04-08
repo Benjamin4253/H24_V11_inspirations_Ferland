@@ -90,11 +90,12 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 
 [(https://youtu.be/CzKovrjxIaU)](https://youtu.be/CzKovrjxIaU)
 
+<h5>Légende: œuvre vue frontale</h5>
 <img src="medias/œuvre_vue_frontale.png" alt="œuvre vue frontale" width="200"/>
-# Manque un appui visuel
-*Le "Type d'installation" est abordée dans le texte sans support visuel comme une Vue parlante - vidéo ET photo qui nous permettent de bien comprendre le type d'installation*
 
-  
+<h5>Légende: œuvre vue arriere</h5>
+<img src="medias/œuvre_vue_arriere.JPG" alt="œuvre vue arriere" width="200"/>
+
 - **Composantes et Techniques utilisées :**
 
 **1.&nbsp;  Projections Multimédias :** Le musée utilise des vidéos et des images projetées sur des surfaces parfois irrégulières, (projection mapping). Cela permet d'adapter l'image projetée à la forme de la surface, rendant l'effet plus réaliste et captivant qui créer une expérience immersive qui transporte les visiteurs dans le temps, leur permettant de sentir et de comprendre la vie dans le Montréal historique.
