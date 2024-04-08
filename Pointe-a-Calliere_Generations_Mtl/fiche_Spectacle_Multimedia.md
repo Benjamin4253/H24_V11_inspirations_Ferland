@@ -95,28 +95,18 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 Le dispositif multimédia de l'exposition Générations MTL à Pointe-à-Callière anime l'histoire de Montréal.
 Il met en avant le passé, aide à saisir les événements et favorise l'apprentissage tout en préservant la culture.
 
+[(https://youtu.be/CzKovrjxIaU)](https://youtu.be/CzKovrjxIaU)
+<h5>Légende: œuvre vue parlante</h5>
 
 ## Composantes et Techniques utilisées :
 
-**1.&nbsp;  Projections Multimédias :** Le musée utilise des vidéos et des images projetées sur des surfaces parfois irrégulières, (projection mapping). Cela permet d'adapter l'image projetée à la forme de la surface, rendant l'effet plus réaliste et captivant qui créer une expérience immersive qui transporte les visiteurs dans le temps, leur permettant de sentir et de comprendre la vie dans le Montréal historique.
+L'œuvre se compose exclusivement de projecteurs, des instruments qui illuminent les surfaces avec des images ou des vidéos.
+Ces dispositifs essentiels créent une atmosphère immersive en projetant des images captivantes et des lumières dynamiques, 
+amplifiant ainsi l'expérience visuelle des visiteurs.
 
-**2.&nbsp;  Artefacts Historiques :** En plus des images et des activités interactives, il y a aussi de vrais objets du passé à voir. Cela peut être des outils, des vêtements ou d'autres choses que les gens utilisaient autrefois à Montréal. Ces objets aident les visiteurs à se connecter au passé de la ville en leur montrant des choses réelles qui ont été utilisées il y a longtemps.
+# Manque img projeteurs
+**Mettre les images des projecteurs**
 
-
-*La première projection représente un système de chauffage :* 
-
-<img src="medias/projection/projection_systeme_chauffage.jpg" alt="projection_systeme_chauffage" width="150"/>
-<h5>Légende: projection systeme chauffage</h5>
-
-*La deuxième projection représente un des murs de pierre du sous-sol du "Royal Insurance Building" :*
-
-<img src="medias/projection/projection_murs_pierre.jpg" alt="projection_murs_pierre" width="150"/>
-<h5>Légende: projection murs pierre</h5>
-
-*La troisième projection représente un système d'alimentation :*  
-
-<img src="medias/projection/projection_systeme_alimentation.jpg" alt="projection_systeme_alimentation" width="150"/>
-<h5>Légende: projection systeme alimentation</h5>
 
 ### Mise en Espace
 
