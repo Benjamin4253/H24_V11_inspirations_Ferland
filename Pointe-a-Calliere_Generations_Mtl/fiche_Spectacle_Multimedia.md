@@ -46,12 +46,6 @@ Source: https://www.newswire.ca/fr/news-releases/le-lieu-de-fondation-de-montrea
 
 - **Type d'exposition :** permanente et intérieure.
 
-
-### Présentation
-L'exposition *Phase Shifting Index* par Jeremy Shaw propose une expérience immersive à travers une installation vidéo multi-écran, explorant les frontières entre réalité et conscience à travers la danse contemporaine.
-
-![](medias/entree_edifice.png)
-
 ## Détails de l'Œuvre Principale
 
 - **Titre :** Générations MTL
@@ -82,7 +76,6 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 
   *Source du cartel: https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/</h4>*
  
-## Caractéristiques Techniques
 
 ### Installation
 
