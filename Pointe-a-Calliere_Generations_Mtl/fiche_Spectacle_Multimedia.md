@@ -89,6 +89,12 @@ Plongez dans l'histoire de Montréal depuis des gradins surplombant des ruines a
 <h5>Légende: œuvre vue arriere</h5>
 <img src="medias/œuvre_vue_arriere.JPG" alt="œuvre vue arriere" width="200"/>
 
+### Fonction du dispositif multimédia
+
+Le dispositif multimédia de l'exposition Générations MTL à Pointe-à-Callière anime l'histoire de Montréal.
+Il met en avant le passé, aide à saisir les événements et favorise l'apprentissage tout en préservant la culture.
+
+
 - **Composantes et Techniques utilisées :**
 
 **1.&nbsp;  Projections Multimédias :** Le musée utilise des vidéos et des images projetées sur des surfaces parfois irrégulières, (projection mapping). Cela permet d'adapter l'image projetée à la forme de la surface, rendant l'effet plus réaliste et captivant qui créer une expérience immersive qui transporte les visiteurs dans le temps, leur permettant de sentir et de comprendre la vie dans le Montréal historique.
