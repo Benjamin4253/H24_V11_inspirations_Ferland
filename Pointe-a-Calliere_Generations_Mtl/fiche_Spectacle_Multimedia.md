@@ -104,8 +104,8 @@ L'œuvre se compose exclusivement de projecteurs, des instruments qui illuminent
 Ces dispositifs essentiels créent une atmosphère immersive en projetant des images captivantes et des lumières dynamiques, 
 amplifiant ainsi l'expérience visuelle des visiteurs.
 
-# Manque img projeteurs
-**Mettre les images des projecteurs**
+<img src="medias/œuvre_vue_lumiere.JPG" alt="œuvre vue lumiere" width="200"/>
+<h5>Légende: œuvre vue lumiere</h5>
 
 
 ### Mise en Espace
