@@ -112,9 +112,15 @@ amplifiant ainsi l'expérience visuelle des visiteurs.
 
 ### Mise en Espace
 
+L'œuvre "Générations MTL" est présentée dans une grande salle au musée Pointe-à-Callière. Des écrans longeant les murs diffusent l'histoire de Montréal.
+Les projecteurs illuminent également le sol, créant une expérience immersive. Les visiteurs se déplacent librement.
 
-# Manque un appui visuel
-La "mise en espace" est abordée dans le texte sans support visuel comme un croquis de la mise en espace ou une vue d'ensemble de la pièce avec dimensions.
+<h5>Légende: œuvre vue globale</h5>
+<img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
+
+ **Description en mots de la mise en espace:** *Le plan de la mise en espace montre une grande salle rectangulaire au musée Pointe-à-Callière.
+   Les murs longs sont équipés d'écrans de projection, avec des projecteurs montés au plafond pour éclairer le sol.*
+
 
 ## Mise en Exposition
 
@@ -133,6 +139,7 @@ La "mise en espace" est abordée dans le texte sans support visuel comme un croq
 -  Des variateurs d'intensité lumineuse ajustent l'éclairage selon les besoins.
 -  Des éclairages LED qui créent une ambiance immersive.
 
+<h5>Légende: œuvre vue globale</h5>
 <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
 
 ## Mon Expérience Personnelle
