@@ -107,6 +107,8 @@ amplifiant ainsi l'expérience visuelle des visiteurs.
 <img src="medias/œuvre_vue_lumiere.JPG" alt="œuvre vue lumiere" width="200"/>
 <h5>Légende: œuvre vue lumiere</h5>
 
+<img src="medias/œuvre_vue_projecteur_lumiere.JPG" alt="œuvre vue projecteur et lumiere" width="200"/>
+<h5>Légende: œuvre vue projecteur et lumiere</h5>
 
 ### Mise en Espace
 
