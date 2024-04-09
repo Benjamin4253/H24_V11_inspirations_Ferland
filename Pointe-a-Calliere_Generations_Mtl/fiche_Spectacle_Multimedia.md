@@ -124,23 +124,24 @@ Les projecteurs illuminent également le sol, créant une expérience immersive.
 
 ## Mise en Exposition
 
-**Supports de Projection:**
+**Projecteur:**
 
--  Des supports solides sont utilisés pour maintenir les écrans de projection en place de manière stable.
-
-**Câblage et Gestion des Fils:**
-
--  Des organisateurs de câbles dissimulent et rangent les câbles le long des murs ou du sol.
-
--  Des caches-fils discrets préviennent les risques de trébuchement en masquant les câbles.
+-  Des projecteurs diffusent l'œuvre sur les écrans.
+  
 
 **Éclairage Ambiant:**
 
--  Des variateurs d'intensité lumineuse ajustent l'éclairage selon les besoins.
--  Des éclairages LED qui créent une ambiance immersive.
+-  L'éclairage ambiant est assuré par des luminaires LED, créant une atmosphère immersive.
 
-<h5>Légende: œuvre vue globale</h5>
-<img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
+### Mettre les img de la Mise en Exposition##
+
+
+
+
+
+
+
+
 
 ## Mon Expérience Personnelle
 
