@@ -141,40 +141,24 @@ Les projecteurs illuminent également le sol, créant une expérience immersive.
 
 ### Mon Expérience Personnelle
 
+## Expérience vécue
+
+Générations MTL m'a fasciné. Les projections murales m'ont transporté dans le passé de Montréal.
+C'était une expérience captivante, éveillant ma curiosité pour l'histoire de la ville d'une manière incroyablement immersive.
+**Appui visuel à intégrer**
+
+
+## Ce qui vous a plu, vous a donné des idées
+
+Les projections murales de Générations MTL m'ont inspiré. Elles sont captivantes pour raconter des histoires.
+Je veux les utiliser dans mes futurs projets pour engager et éduquer le public de manière immersive.
+**Appui visuel à intégrer**
+
+
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
 Je changerais le rythme de l'exposition pour donner plus de temps aux visiteurs de penser et comprendre.
 Moins d'infos à la fois, plus de pauses, et des zones calmes pour réfléchir. Ainsi, chacun pourrait mieux apprécier et se souvenir de sa visite.
 **Appui visuel à intégrer**
 
-
-## Expérience vécue
-
-Générations MTL m'a fasciné. Les projections murales m'ont transporté dans le passé de Montréal. C'était une expérience captivante, éveillant ma curiosité pour l'histoire de la ville d'une manière incroyablement immersive.
-
-### Suggestions
-Bien que l'expérience globale soit enrichissante, une simplification de certains aspects techniques pourrait rendre l'œuvre plus accessible sans en diminuer la profondeur.
-
-## Conclusion
-
-L'exposition *Phase Shifting Index* de Jeremy Shaw offre un aperçu fascinant sur les possibilités de l'art contemporain pour provoquer la réflexion et l'émotion. Elle représente un investissement significatif dans la compréhension des interactions humaines avec l'art et la technologie.
-
 ## Références
-
-- Affiche exposition : 
-  - Site Web : 
-  - Photographe : Nom de la personne
-  
-
-  
-- Vue œuvre globale :
-  - Site Web : [www.nomdusite.com/vue](www.nomdusite.com/vue)
-  - Photographe : Nom de la personne
-  
-- Cartel et diverses vues :
-  - Site Web : [www.nomdusite.com/cartel](www.nomdusite.com/cartel)
-  - Photographe : Nom de la personne
-  
-- Mise en espace :
-  - Site Web : [www.nomdusite.com/mise-en-espace](www.nomdusite.com/mise-en-espace)
-  - Photographe : Nom de la personne
