@@ -1,28 +1,19 @@
 # Exposition Pointe-à-Callière - Generations Mtl
 
 ## Sommaire
-- [Aperçu de l'Exposition](#aperçu-de-lexposition)
-  - [Informations Générales](#informations-générales)
-  - [Présentation](#présentation)
-- [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
-  - [Titre : Générations MTL](#titre--générations-mtl)
-  - [Firme : TKNL](#firme--tknl)
-  - [Année : 2019](#année--2019)
-- [Description de l'Œuvre](#description-de-lœuvre)
-- [Caractéristiques Techniques](#caractéristiques-techniques)
-  - [Installation](#installation)
-    - [Projections Multimédias](#projections-multimédias)
-    - [Artefacts Historiques](#artefacts-historiques)
-  - [Mise en Espace](#mise-en-espace)
-    - [Supports de Projection](#supports-de-projection)
-    - [Câblage et Gestion des Fils](#câblage-et-gestion-des-fils)
-    - [Éclairage Ambiant](#éclairage-ambiant)
-- [Logistique d'Exposition](#logistique-dexposition)
-- [Mon Expérience Personnelle](#mon-expérience-personnelle)
-- [Impressions et Réflexions](#impressions-et-réflexions)
-  - [Suggestions](#suggestions)
-- [Conclusion](#conclusion)
-- [Références](#références)
+Aperçu de l'Exposition
+Informations Générales
+Détails de l'Œuvre Principale
+Description de l'Œuvre
+Caractéristiques Techniques
+Installation
+Fonction du dispositif multimédia
+Mise en Espace
+Mon Expérience Personnelle
+Expérience vécue
+Ce qui vous a plu, vous a donné des idées
+Aspect que vous ne souhaiteriez pas retenir
+Références
 
 
 ## Aperçu de l'Exposition
