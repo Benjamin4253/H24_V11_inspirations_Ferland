@@ -162,3 +162,4 @@ Moins d'infos à la fois, plus de pauses, et des zones calmes pour réfléchir. 
 **Appui visuel à intégrer**
 
 ## Références
+*Lien du site web de l'exposition:* https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
