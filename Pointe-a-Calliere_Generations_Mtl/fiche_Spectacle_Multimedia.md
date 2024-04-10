@@ -1,19 +1,19 @@
 # Exposition Pointe-à-Callière - Generations Mtl
 
 ## Sommaire
-Aperçu de l'Exposition
-Informations Générales
-Détails de l'Œuvre Principale
-Description de l'Œuvre
-Caractéristiques Techniques
-Installation
-Fonction du dispositif multimédia
-Mise en Espace
-Mon Expérience Personnelle
-Expérience vécue
-Ce qui vous a plu, vous a donné des idées
-Aspect que vous ne souhaiteriez pas retenir
-Références
+- [Aperçu de l'Exposition](#aperçu-de-lexposition)
+  - [Informations Générales](#informations-générales)
+  - [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
+  - [Description de l'Œuvre](#description-de-lœuvre)
+  - [Caractéristiques Techniques](#caractéristiques-techniques)
+    - [Installation](#installation)
+    - [Mise en Espace](#mise-en-espace)
+    - [Mise en Exposition](#mise-en-exposition)
+- [Mon Expérience Personnelle](#mon-expérience-personnelle)
+  - [Expérience vécue](#expérience-vécue)
+  - [Ce qui vous a plu, vous a donné des idées](#ce-qui-vous-a-plu-vous-a-donné-des-idées)
+  - [Aspect que vous ne souhaiteriez pas retenir](#aspect-que-vous-ne-souhaiteriez-pas-retenir)
+- [Références](#références)
 
 
 ## Aperçu de l'Exposition
