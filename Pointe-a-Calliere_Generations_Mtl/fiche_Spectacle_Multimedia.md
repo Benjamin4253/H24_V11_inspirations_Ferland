@@ -136,6 +136,8 @@ Les projecteurs illuminent également le sol, créant une expérience immersive.
 
 Générations MTL m'a fasciné. Les projections murales m'ont transporté dans le passé de Montréal.
 C'était une expérience captivante, éveillant ma curiosité pour l'histoire de la ville d'une manière incroyablement immersive.
+
+# Ajouter de courts vidéos pour documenter les actions
 **Appui visuel à intégrer**
 
 
@@ -143,6 +145,8 @@ C'était une expérience captivante, éveillant ma curiosité pour l'histoire de
 
 Les projections murales de Générations MTL m'ont inspiré. Elles sont captivantes pour raconter des histoires.
 Je veux les utiliser dans mes futurs projets pour engager et éduquer le public de manière immersive.
+
+# Ajouter de courts vidéos pour documenter les actions
 **Appui visuel à intégrer**
 
 
@@ -150,6 +154,8 @@ Je veux les utiliser dans mes futurs projets pour engager et éduquer le public 
 
 Je changerais le rythme de l'exposition pour donner plus de temps aux visiteurs de penser et comprendre.
 Moins d'infos à la fois, plus de pauses, et des zones calmes pour réfléchir. Ainsi, chacun pourrait mieux apprécier et se souvenir de sa visite.
+
+# Ajouter de courts vidéos pour documenter les actions
 **Appui visuel à intégrer**
 
 ## Références
