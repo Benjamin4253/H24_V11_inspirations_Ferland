@@ -139,13 +139,18 @@ Les projecteurs illuminent également le sol, créant une expérience immersive.
 <h5>Légende: œuvre vue lumiere</h5>
 
 
-## Mon Expérience Personnelle
+### Mon Expérience Personnelle
 
-Visiter *Phase Shifting Index* a été une expérience révélatrice, la synergie entre les images et la musique a provoqué une profonde réflexion sur la nature humaine et notre perception du réel.
+## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
-## Impressions et Réflexions
+Je changerais le rythme de l'exposition pour donner plus de temps aux visiteurs de penser et comprendre.
+Moins d'infos à la fois, plus de pauses, et des zones calmes pour réfléchir. Ainsi, chacun pourrait mieux apprécier et se souvenir de sa visite.
+**Appui visuel à intégrer**
 
-L'exposition m'a inspiré à envisager de nouvelles manières d'intégrer différentes formes d'art pour créer des expériences uniques et mémorables. Elle souligne l'importance de la collaboration créative et de l'innovation dans le domaine artistique.
+
+## Expérience vécue
+
+Générations MTL m'a fasciné. Les projections murales m'ont transporté dans le passé de Montréal. C'était une expérience captivante, éveillant ma curiosité pour l'histoire de la ville d'une manière incroyablement immersive.
 
 ### Suggestions
 Bien que l'expérience globale soit enrichissante, une simplification de certains aspects techniques pourrait rendre l'œuvre plus accessible sans en diminuer la profondeur.
