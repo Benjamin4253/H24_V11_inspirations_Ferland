@@ -127,20 +127,16 @@ Les projecteurs illuminent également le sol, créant une expérience immersive.
 **Projecteur:**
 
 -  Des projecteurs diffusent l'œuvre sur les écrans.
-  
+
+<img src="medias/œuvre_vue_projecteur_lumiere.JPG" alt="œuvre vue projecteur et lumiere" width="200"/>
+<h5>Légende: œuvre vue projecteur et lumiere</h5>
 
 **Éclairage Ambiant:**
 
 -  L'éclairage ambiant est assuré par des luminaires LED, créant une atmosphère immersive.
 
-### Mettre les img de la Mise en Exposition##
-
-
-
-
-
-
-
+<img src="medias/œuvre_vue_lumiere.JPG" alt="œuvre vue lumiere" width="200"/>
+<h5>Légende: œuvre vue lumiere</h5>
 
 
 ## Mon Expérience Personnelle
