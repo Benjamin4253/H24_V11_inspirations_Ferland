@@ -36,9 +36,9 @@ L'exposition Sonalux offre une expérience multimédia immersive où les partici
 *Photo de l'œuvre en action*
 
 ## Schéma prévu pour l'installation
-![Schema](./media/sonalux_plantation.png)
-(source: [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html))
+<img src="medias/œuvre_schéma.jpg" alt="œuvre schéma" width="200"/>
+<h5>Légende: le schéma de œuvre</h5>
+*source:* [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## Lien de l'œuvre
 [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
-
