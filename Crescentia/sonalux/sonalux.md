@@ -16,8 +16,10 @@ L'exposition Sonalux offre une expérience multimédia immersive où les partici
 <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
 <h5>Légende: Photo de l’œuvre en son ensemble.</h5>
 
-<video src="medias/oeuvre_demonstration.mp4" alt="oeuvre demonstration" width="200"/>
-<h5>Légende: Photo des boutons</h5>
+<video controls width="500">
+  <source src="medias/oeuvre_demonstration.mp4" type="video/mp4">
+</video>
+<h5>Légende: Vidéo de l'oeuvre en action.</h5>
 
 
 ![Éclairage](./media/experiences/SONALUX_eclairage.jpg)
