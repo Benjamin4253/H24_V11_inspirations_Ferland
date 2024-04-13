@@ -10,11 +10,17 @@
 L'exposition Sonalux offre une expérience multimédia immersive où les participants sont transportés dans un monde de voyage astral. À travers cette installation, Sonalux explore la notion de transcendance du temps et de l'espace, invitant les participants à devenir les maîtres de leur propre expérience grâce à l'interaction avec les instruments présentés sur le podium. Sonalux incarne la vision créative et immersive de Crescentia.
 
 ## Installation
-<img src="medias/oeuvre_boutons.jpg" alt="œuvre boutons" width="200"/>
-<h5>Légende: Photo des boutons</h5>
+<div style="display:flex; justify-content:space-around; align-items:center;">
+    <div style="text-align:center;">
+        <img src="medias/oeuvre_boutons.jpg" alt="œuvre boutons" width="200"/>
+        <h5>Légende: Photo des boutons</h5>
+    </div>
+    <div style="text-align:center;">
+        <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
+        <h5>Légende: Photo de l’œuvre en son ensemble.</h5>
+    </div>
+</div>
 
-<img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
-<h5>Légende: Photo de l’œuvre en son ensemble.</h5>
 
 ![Éclairage](./media/experiences/SONALUX_eclairage.jpg)
 *Photo de l'éclairage*
