@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=xyEWyEB-V-k
 
 ## Schéma prévu pour l'installation
 <img src="medias/œuvre_schéma.png" alt="œuvre schéma" width="500"/>
-<h5>Légende: le schéma de œuvre</h5>
+<h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5> 
 
