@@ -10,25 +10,24 @@
 L'exposition Sonalux offre une expérience multimédia immersive où les participants sont transportés dans un monde de voyage astral. À travers cette installation, Sonalux explore la notion de transcendance du temps et de l'espace, invitant les participants à devenir les maîtres de leur propre expérience grâce à l'interaction avec les instruments présentés sur le podium. Sonalux incarne la vision créative et immersive de Crescentia.
 
 ## Installation
-![Boutons](./medias/oeuvre_boutons.jpg)
-*Photo des boutons*
+<h5>Légende: Photo des boutons</h5>
+<img src="medias/oeuvre_boutons.jpg" alt="œuvre boutons" width="350"/>
 
 <h5>Légende: ‎Photo de l'installation et des branchements.</h5>
 <img src="medias/œuvre_vue_installation_fils.jpg" width="350"/>
 
+<h5>Légende: Photo de l’œuvre en son ensemble.</h5>
 <img src="medias/œuvre_vue_globale.jpg" width="350"/>
-*Légende: Photo de l’œuvre en son ensemble.*
 
 <h5>Légende: Vidéo de l'oeuvre en action.</h5>
 https://www.youtube.com/watch?v=xyEWyEB-V-k
 
-![Éclairage](./medias/œuvre_vue_globale.jpg)
-*Photo de l'éclairage*
 
 ## Schéma prévu pour l'installation
 <img src="medias/œuvre_schéma.png" alt="œuvre schéma" width="500"/>
 <h5>Légende: le schéma de œuvre</h5>
-*source:* [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+
+*source :* [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
 
 ## Lien de l'œuvre
 [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
