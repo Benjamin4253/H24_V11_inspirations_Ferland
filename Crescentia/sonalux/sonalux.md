@@ -10,34 +10,20 @@
 L'exposition Sonalux offre une expérience multimédia immersive où les participants sont transportés dans un monde de voyage astral. À travers cette installation, Sonalux explore la notion de transcendance du temps et de l'espace, invitant les participants à devenir les maîtres de leur propre expérience grâce à l'interaction avec les instruments présentés sur le podium. Sonalux incarne la vision créative et immersive de Crescentia.
 
 ## Installation
-<h5>Légende: Photo des boutons</h5>
-<img src="medias/oeuvre_boutons.jpg" width="350"/>
+![Boutons](./medias/oeuvre_boutons.jpg)
+*Photo des boutons*
 
 <h5>Légende: ‎Photo de l'installation et des branchements.</h5>
 <img src="medias/œuvre_vue_installation_fils.jpg" width="350"/>
 
-<h5>Légende: Photo de l’œuvre en son ensemble.</h5>
 <img src="medias/œuvre_vue_globale.jpg" width="350"/>
+*Légende: Photo de l’œuvre en son ensemble.*
 
 <h5>Légende: Vidéo de l'oeuvre en action.</h5>
 https://www.youtube.com/watch?v=xyEWyEB-V-k
 
-
-
-![Éclairage](./media/experiences/SONALUX_eclairage.jpg)
+![Éclairage](./medias/œuvre_vue_globale.jpg)
 *Photo de l'éclairage*
-
-![Ensemble](./media/experiences/SONALUX_ensemble.jpg)
-*Photo de l'œuvre en ensemble*
-
-![Installation](./media/experiences/SONALUX_installation.jpg)
-*Photo de l'installation et des branchements*
-
-![Oeuvre](./media/experiences/SONALUX_large.jpg)
-*Photo de l'œuvre*
-
-![Oeuvre en action](./media/experiences/SONALUX_proche.jpg)
-*Photo de l'œuvre en action*
 
 ## Schéma prévu pour l'installation
 <img src="medias/œuvre_schéma.png" alt="œuvre schéma" width="500"/>
