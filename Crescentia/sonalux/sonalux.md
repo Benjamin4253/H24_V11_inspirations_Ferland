@@ -11,23 +11,23 @@ L'exposition Sonalux offre une expérience multimédia immersive où les partici
 
 ## Installation
 <h5>Légende: Photo des boutons</h5>
-<img src="medias/oeuvre_boutons.jpg" width="350"/>
+<img src="medias/oeuvre_boutons.jpg" width="500"/>
 
 <h5>Légende: Photo de l'éclairage</h5>
-<img src="medias/oeuvre_éclairage.jpg" width="350"/>
+<img src="medias/oeuvre_éclairage.jpg" width="500"/>
 
 <h5>Légende: ‎Photo de l'installation et des branchements.</h5>
-<img src="medias/œuvre_vue_installation_fils.jpg" width="350"/>
+<img src="medias/œuvre_vue_installation_fils.jpg" width="500"/>
 
 <h5>Légende: Photo de l’œuvre en son ensemble.</h5>
-<img src="medias/œuvre_vue_globale.jpg" width="350"/>
+<img src="medias/œuvre_vue_globale.jpg" width="500"/>
 
 <h5>Légende: Vidéo de l'oeuvre en action.</h5>
 https://www.youtube.com/watch?v=xyEWyEB-V-k
 
 
 ## Schéma prévu pour l'installation
-<img src="medias/œuvre_schéma.png" alt="œuvre schéma" width="500"/>
+<img src="medias/œuvre_schéma.png" alt="œuvre schéma" width="700"/>
 <h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5> 
