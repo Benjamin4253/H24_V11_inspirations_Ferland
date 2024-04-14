@@ -11,7 +11,10 @@ L'exposition Sonalux offre une expérience multimédia immersive où les partici
 
 ## Installation
 <h5>Légende: Photo des boutons</h5>
-<img src="medias/oeuvre_boutons.jpg" alt="œuvre boutons" width="350"/>
+<img src="medias/oeuvre_boutons.jpg" width="350"/>
+
+<h5>Légende: Photo de l'éclairage</h5>
+<img src="medias/oeuvre_éclairage.jpg" width="350"/>
 
 <h5>Légende: ‎Photo de l'installation et des branchements.</h5>
 <img src="medias/œuvre_vue_installation_fils.jpg" width="350"/>
@@ -27,7 +30,9 @@ https://www.youtube.com/watch?v=xyEWyEB-V-k
 <img src="medias/œuvre_schéma.png" alt="œuvre schéma" width="500"/>
 <h5>Légende: le schéma de œuvre</h5>
 
-*source :* [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
+<h5> source: </h5> 
+
+[Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
 
 ## Lien de l'œuvre
 [Sonalux](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/index.html)
