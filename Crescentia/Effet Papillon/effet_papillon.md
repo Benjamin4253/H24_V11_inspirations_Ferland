@@ -11,12 +11,29 @@
 Effet Papillon présente une expérience immersive qui explore le cycle de vie d'un pommier, mettant en lumière l'effet papillon à travers des éléments électroniques. En invitant les visiteurs à participer à cette expérience, on souligne la complexité des conséquences résultant de choix apparemment minuscules, tout en offrant une réflexion sur le cycle de la vie. Effet Papillon incarne la vision de Crescentia avec la création d'une expérience multimédia engageante qui incite à la réflexion sur les interactions humaines.
 
 ## Installation
+<h5>Légende: Photo des écrans</h5>
+<img src="medias/oeuvre_écran.webp" width="500"/>
+
 <h5>Légende: Photo de l'éclairage</h5>
-<img src="medias/oeuvre_eclairage.jpg" width="350"/>
+<img src="medias/oeuvre_eclairage.jpg" width="500"/>
+
+<h5>Légende: Photo de l’œuvre en son ensemble.</h5>
+<img src="medias/œuvre_vue_globale.jpg" width="500"/>
 
 
 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎  ‎‎ ‎ ‎‎ ‎ ‎
+
+
+
+ ## Manque œuvre_projeteur et oeuvre_programmation‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎  ‎‎ ‎ ‎‎ ‎ ‎
+
+
+
+
+
+
+
+
 
 
 ## Schéma prévu pour l'installation
