@@ -23,18 +23,8 @@ Effet Papillon présente une expérience immersive qui explore le cycle de vie d
 <h5>Légende: Photo de la programmation de l’œuvre.</h5>
 <img src="medias/oeuvre_programmation.jpg" width="500"/>
 
-<h5>Légende: Photo de la programmation de l’œuvre.</h5>
-<img src="medias/oeuvre_programmation.jpg" width="500"/>
-‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎  ‎‎ ‎ ‎‎ ‎ ‎
-
-
-
-
-
-
-
-
-
+<h5>Légende: Photo de l'arrangement des fils de l'oeuvre.</h5>
+<img src="medias/œuvre_projeteur.jpg" width="500"/>
 
 ## Schéma prévu pour l'installation
 <img src="medias/oeuvre_schéma.jpg" width="700"/>
