@@ -33,8 +33,6 @@ https://www.youtube.com/watch?v=V8n1xFRV3Dg
 <h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5> 
-
-
 [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
 
 ## Lien de l'oeuvre
