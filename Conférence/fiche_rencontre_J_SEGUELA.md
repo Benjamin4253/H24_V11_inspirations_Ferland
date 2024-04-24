@@ -12,6 +12,6 @@ La présentation de Séguela a offert un aperçu précieux du travail nécessair
 
 
 
-![Titre de l'œuvre](URL_de_l'image_tirée_du_site_web_de_l'artiste)
+<img src="Conférence/zoom_pavilion.jpg" width="500"/>
 Source: [Nom de l'artiste](URL_du_site_web_de_l'artiste)
 
