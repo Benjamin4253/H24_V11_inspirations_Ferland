@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=2UW57OXhWFQ
 
 <h5> source: </h5>
 
-[Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
+https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
 ## Lien de l'oeuvre
 [Rhizomatique](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/index.html)
