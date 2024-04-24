@@ -25,9 +25,8 @@ https://www.youtube.com/watch?v=V8n1xFRV3Dg
 <h5>Légende: Photo de l'arrangement des fils de l'oeuvre.</h5>
 <img src="medias/œuvre_projeteur.png" width="500"/>
 
-
 <h5>Légende: ‎Photo de la liste des top scores.</h5>
-<img src="medias/oeuvre_programmation.jpg" width="500"/>
+<img src="medias/oeuvre_liste_scores.jpg" width="500"/>
 
 
 
