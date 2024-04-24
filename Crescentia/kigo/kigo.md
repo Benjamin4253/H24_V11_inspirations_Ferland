@@ -28,14 +28,12 @@ https://www.youtube.com/watch?v=V8n1xFRV3Dg
 <h5>Légende: ‎Photo de la liste des top scores.</h5>
 <img src="medias/oeuvre_liste_scores.png" width="500"/>
 
-
-
-
 ## Schéma prévu pour l'installation
 <img src="medias/oeuvre_schéma.png" width="700"/>
 <h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5> 
+
 
 [Kigo](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
 
