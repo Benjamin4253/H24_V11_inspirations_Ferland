@@ -16,9 +16,11 @@ Canevas Cosmique est une expérience immersive où les visiteurs peuvent interag
 <h5>Légende: Vidéo de l'oeuvre en action.</h5>
 https://www.youtube.com/shorts/nxRehO2Amkc
 
+<h5>Légende: Photo de l'arrangement des fils de l'oeuvre.</h5>
+<img src="medias/œuvre_vue_installation_fils.jpg" width="500"/>
 
-
-
+<h5>Légende: Photo de la programmation de l’œuvre.</h5>
+<img src="medias/oeuvre_programmation.jpg" width="500"/>
 
 ## Schéma prévu pour l'installation
 <img src="medias/oeuvre_schéma.png" alt="œuvre schéma" width="700"/>
