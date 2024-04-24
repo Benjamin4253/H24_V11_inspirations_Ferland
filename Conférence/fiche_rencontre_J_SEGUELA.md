@@ -12,6 +12,6 @@ La présentation de Séguela a offert un aperçu précieux du travail nécessair
 
 
 
-<img src="zoom_pavilion.jpg" width="500"/>
-Source: [Nom de l'artiste](URL_du_site_web_de_l'artiste)
+<img src="zoom_pavilion.jpg" width="1000"/>
+Source: [Rafael Lozano-Hemmer](URL_du_site_web_de_l'artiste)
 
