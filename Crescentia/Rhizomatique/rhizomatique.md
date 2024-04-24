@@ -15,16 +15,11 @@ Rhizomatique explore la façon dont nous nous souvenons et interagissons avec le
 <h5>Légende: Vidéo de l'oeuvre en action.</h5>
 https://www.youtube.com/watch?v=2UW57OXhWFQ
 
+<h5>Légende: Photo du dispositif plus en détails</h5>
+<img src="medias/œuvre_vue_dispositif.jpg" width="500"/>
 
-
-
-
-
-
-
-
-
-
+<h5>Légende: Photo de l'arrangement des fils de l'oeuvre.</h5>
+<img src="medias/œuvre_projeteur.jpg" width="500"/>
 
 ## Schéma prévu pour l'installation
 <img src="medias/oeuvre_schéma.png" width="700"/>
