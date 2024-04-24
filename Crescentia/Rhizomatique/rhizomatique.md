@@ -26,7 +26,6 @@ https://www.youtube.com/watch?v=2UW57OXhWFQ
 <h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5>
-
 https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
 ## Lien de l'oeuvre
