@@ -31,8 +31,7 @@ Effet Papillon présente une expérience immersive qui explore le cycle de vie d
 <h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5>
-
-[EffetPapillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
+https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html
 
 ## Lien de l'oeuvre
 [EffetPapillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
