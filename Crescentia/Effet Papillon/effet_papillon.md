@@ -12,7 +12,7 @@ Effet Papillon présente une expérience immersive qui explore le cycle de vie d
 
 ## Installation
 <h5>Légende: Photo des écrans</h5>
-<img src="medias/oeuvre_écran.webp" width="500"/>
+<img src="medias/oeuvre_écran.jpg" width="500"/>
 
 <h5>Légende: Photo de l'éclairage</h5>
 <img src="medias/oeuvre_eclairage.jpg" width="500"/>
@@ -20,12 +20,12 @@ Effet Papillon présente une expérience immersive qui explore le cycle de vie d
 <h5>Légende: Photo de l’œuvre en son ensemble.</h5>
 <img src="medias/œuvre_vue_globale.jpg" width="500"/>
 
+<h5>Légende: Photo de la programmation de l’œuvre.</h5>
+<img src="medias/oeuvre_programmation.jpg" width="500"/>
 
-
-
-
-
- ## Manque œuvre_projeteur et oeuvre_programmation‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎  ‎‎ ‎ ‎‎ ‎ ‎
+<h5>Légende: Photo de la programmation de l’œuvre.</h5>
+<img src="medias/oeuvre_programmation.jpg" width="500"/>
+‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎  ‎‎ ‎ ‎‎ ‎ ‎
 
 
 
