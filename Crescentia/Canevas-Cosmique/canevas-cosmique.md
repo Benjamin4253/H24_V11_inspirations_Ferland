@@ -27,7 +27,6 @@ https://www.youtube.com/shorts/nxRehO2Amkc
 <h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5> 
-
 https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html
 
 ## Lien de l'oeuvre
