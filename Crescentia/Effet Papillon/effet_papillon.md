@@ -34,4 +34,4 @@ Effet Papillon présente une expérience immersive qui explore le cycle de vie d
 [EffetPapillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html)
 
 ## Lien de l'oeuvre
-[EffetPapillon](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html)
+Effet Papillon: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/index.html
