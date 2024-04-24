@@ -18,7 +18,7 @@ Photo de l'oeuvre en action. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
 Photo de l'oeuvre de proche. ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎Photo de l'oeuvre sous un autre angle.
 
 ## Schéma prévu pour l'installation
-<img src="medias/oeuvre_schéma.jpg" width="700"/>
+<img src="medias/oeuvre_schéma.png" width="700"/>
 <h5>Légende: le schéma de l'œuvre</h5>
 
 <h5> source: </h5>
