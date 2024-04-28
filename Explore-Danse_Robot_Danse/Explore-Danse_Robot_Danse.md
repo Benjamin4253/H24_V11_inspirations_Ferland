@@ -10,6 +10,17 @@
   
 Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5>
 
+- **Lieu :** Centre des sciences à Montréal.
+  
+  <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="300"/>
+<h5>Légende: édifice vue entrée</h5>
+  
+- **Date de visite :** 10 Avril 2024
+
+- **Type d'exposition :** permanente
+
+
+
 
 <img src="./img/ensemble_expo.png" width="350"/>
 <sub>Photo d'ensemble de l'exposition.</sub>
