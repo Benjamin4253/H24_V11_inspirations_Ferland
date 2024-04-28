@@ -24,6 +24,23 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
 ### Date de votre visite
 - 10 Avril 2024
 
+## Détails de l'Œuvre Principale
+
+- **Titre :** DANSE, ROBOT, DANSE!
+  
+  <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="200"/>
+  <h5>Légende: œuvre vue globale
+    
+  Source: https://www.passeportvacances.com/forfaits-musee-pointe-a-calliere-montreal-exposition-activite-familiale-culture-archeologie-tarif-direction
+  Photographe: Romain Guilbault</h5>
+  
+- **Firme :** Mecademic
+
+- **Année :** 2013
+
+
+## Description de l'Œuvre
+
 
 
 
