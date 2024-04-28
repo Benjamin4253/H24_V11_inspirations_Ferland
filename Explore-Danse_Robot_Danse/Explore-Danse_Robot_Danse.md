@@ -7,14 +7,13 @@
 
 
 ### Informations Générales
-- **Nom de l'exposition :** Générations MTL
-  
   <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="300"/>
 <h5>Légende: affiche exposition
   
 Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5>
 
-- **Lieu :** Centre des sciences à Montréal.
+### Lieu de mise en exposition
+- Centre des sciences à Montréal.
   
   <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="300"/>
 <h5>Légende: édifice vue entrée</h5>
