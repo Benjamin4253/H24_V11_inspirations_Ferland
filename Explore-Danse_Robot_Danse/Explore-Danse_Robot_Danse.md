@@ -1,4 +1,16 @@
 # Exposition : Explore - La science en grand
+
+## Sommaire
+
+### Informations Générales
+- **Nom de l'exposition :** Générations MTL
+  
+  <img src="medias/affiche_exposition.jpg" alt="affiche exposition" width="200"/>
+<h5>Légende: affiche exposition
+  
+Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5>
+
+
 <img src="./img/ensemble_expo.png" width="350"/>
 <sub>Photo d'ensemble de l'exposition.</sub>
 
