@@ -16,8 +16,6 @@
 - [Références](#références)
 
 
-## Aperçu de l'Exposition
-
 ### Informations Générales
 - **Nom de l'exposition :** Générations MTL
   
