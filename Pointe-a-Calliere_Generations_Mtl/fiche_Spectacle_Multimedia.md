@@ -146,8 +146,8 @@ C'était une expérience captivante, éveillant ma curiosité pour l'histoire de
 Les projections murales de Générations MTL m'ont inspiré. Elles sont captivantes pour raconter des histoires.
 Je veux les utiliser dans mes futurs projets pour engager et éduquer le public de manière immersive.
 
-# Ajouter de courts vidéos pour documenter les actions
-**Appui visuel à intégrer**
+[(https://youtu.be/CzKovrjxIaU)](https://youtu.be/CzKovrjxIaU)
+<h5>Légende: œuvre vue parlante</h5>
 
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
