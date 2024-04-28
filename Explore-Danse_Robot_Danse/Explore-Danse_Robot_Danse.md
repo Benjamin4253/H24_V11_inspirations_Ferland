@@ -17,10 +17,12 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
   
   <img src="medias/edifice_vue_entree.jpg" alt="edifice vue entree" width="300"/>
 <h5>Légende: édifice vue entrée</h5>
-  
-- **Date de visite :** 10 Avril 2024
 
-- **Type d'exposition :** permanente
+### Type d'exposition
+- Permanente
+
+### Date de votre visite
+- 10 Avril 2024
 
 
 
