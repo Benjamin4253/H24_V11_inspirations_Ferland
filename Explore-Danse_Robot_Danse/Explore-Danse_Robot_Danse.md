@@ -29,7 +29,7 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
 - **Titre :** DANSE, ROBOT, DANSE!
   
   <img src="medias/œuvre vue globale.jpg" alt="œuvre vue globale" width="300"/>
-  <h5>Légende: œuvre vue globale
+  <h5>Légende: œuvre vue globale</h5>
   
 - **Firme :** Mecademic
 
@@ -37,6 +37,8 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
 
 
 ## Description de l'Œuvre
+Protégé d’une vitrine carrée aux arêtes vert pomme, le microrobot industriel a une manière bien particulière d’interagir avec le visiteur. Il danse! Et sa chorégraphie, c’est le visiteur de l'exposition Exlore du Centre des sciences qui la crée en choisissant et plaçant devant lui six blocs colorés décrivant des mouvements de danse ou des expressions faciales. C’est parti, le petit robot baisse la tête, l’oscille, part à droite, à gauche, fait un « Oh » d’étonnement puis sourit avant de s’immobiliser.
+
 
 
 
@@ -65,6 +67,12 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
 
 ### Description de l'œuvre
 - Explore - La Science en Grand au Centre des sciences de Montréal est une aventure immersive pour les curieux de tous âges. Avec des expositions interactives, des démonstrations fascinantes et des activités éducatives, cet espace invite à explorer les merveilles de la science, de la technologie et de l'innovation dans un environnement stimulant et divertissant.
+
+<h5>Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5>
+
+
+
+
 
 
 ## Détails supplémentaires
