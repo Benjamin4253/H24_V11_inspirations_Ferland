@@ -63,7 +63,19 @@ Protégé d’une vitrine carrée aux arêtes vert pomme, le microrobot industri
 <img src="medias/œuvre_cartel.jpg" alt="œuvre cartel" width="500"/>
 
 
+### Type d'installation
+- Interactive
 
+<h5>oeuvre en action</h5>
+
+https://www.youtube.com/watch?v=l6HB6jVdrrU
+
+
+
+
+
+<img src="./img/vueensemble1.JPG" width="350"/>
+<sub>Vue d'ensemble.</sub>
 
 
 
