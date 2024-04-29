@@ -28,7 +28,7 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
 
 - **Titre :** DANSE, ROBOT, DANSE!
   
-  <img src="medias/œuvre vue globale.jpg" alt="œuvre vue globale" width="300"/>
+  <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="300"/>
   <h5>Légende: œuvre vue globale</h5>
   
 - **Firme :** Mecademic
@@ -39,4 +39,39 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
 ## Description de l'Œuvre
 Protégé d’une vitrine carrée aux arêtes vert pomme, le microrobot industriel a une manière bien particulière d’interagir avec le visiteur. Il danse! Et sa chorégraphie, c’est le visiteur de l'exposition Exlore du Centre des sciences qui la crée en choisissant et plaçant devant lui six blocs colorés décrivant des mouvements de danse ou des expressions faciales. C’est parti, le petit robot baisse la tête, l’oscille, part à droite, à gauche, fait un « Oh » d’étonnement puis sourit avant de s’immobiliser.
   <h5>Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5>
+
+### Diverses vues de l'exposition
+
+
+<h5>œuvre vue frontale</h5>
+<img src="medias/œuvre_vue_frontale.jpg" alt="œuvre vue frontale" width="300"/>
+
+<h5>œuvre vue partie droite</h5>
+<img src="medias/œuvre_vue_partie_droite.jpg" alt="œuvre vue partie droite" width="300"/>
+
+<h5>œuvre vue globale</h5>
+<img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="300"/>
+
+<h5>œuvre vue rapprocher</h5>
+<img src="medias/œuvre_vue_rapprocher.jpg" alt="œuvre vue rapprocher" width="300"/>
+
+<h5>œuvre vue plongée</h5>
+<img src="medias/œuvre_vue_plongée.jpg" alt="œuvre vue plongée" width="300"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
