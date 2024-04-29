@@ -1,4 +1,4 @@
-# Exposition : Explore - La science en grand
+# Exposition : Explore - DANSE, ROBOT, DANSE!
 
 ## Sommaire 
 **FAIRE A LA FIN**
