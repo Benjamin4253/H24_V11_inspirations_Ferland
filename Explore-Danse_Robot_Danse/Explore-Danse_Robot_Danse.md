@@ -30,9 +30,6 @@ Source: https://www.centredessciencesdemontreal.com/blogue/danse-robot-danse</h5
   
   <img src="medias/œuvre vue globale.jpg" alt="œuvre vue globale" width="300"/>
   <h5>Légende: œuvre vue globale
-    
-  Source: https://www.passeportvacances.com/forfaits-musee-pointe-a-calliere-montreal-exposition-activite-familiale-culture-archeologie-tarif-direction
-  Photographe: Romain Guilbault</h5>
   
 - **Firme :** Mecademic
 
