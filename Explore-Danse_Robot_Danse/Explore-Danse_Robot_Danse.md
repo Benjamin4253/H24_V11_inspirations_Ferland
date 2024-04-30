@@ -74,9 +74,11 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 ### Mise en espace
 - L'installation "DANSE, ROBOT, DANSE!" est exposée au centre de l'exposition Explore. Au cœur de l'espace, des vitres, avec des bordures de couleur vert pomme, et a l’intérieur il y a le robot Meca500. Le robot est posé sur une petite table au centre. Les visiteurs peuvent contrôler les mouvements du robot avec des des blocs colorés qui contrôlent les émotions du robot.
 
-- 
-<img src="./img/ensemble_2.JPG" width="350"/>
-<sub>Photo de la mise en espace.</sub>
+<h5>la mise en espace de l'œuvre</h5>
+<img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="300"/>
+
+  
+
 
 
 
