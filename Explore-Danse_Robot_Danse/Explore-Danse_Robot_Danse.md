@@ -77,6 +77,12 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 <h5>la mise en espace de l'œuvre</h5>
 <img src="medias/œuvre_vue_globale.jpg" alt="œuvre vue globale" width="300"/>
 
+
+### Composantes et techniques
+- L'exposition comprend des mécanismes sophistiqués pour déclencher des mouvements du robot. Des caméras optiques détectent les combinaisons de couleurs sur les blocs, envoyant des signaux au robot pour exécuter des danses prédéfinies.
+
+
+
   
 
 
