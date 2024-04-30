@@ -71,11 +71,10 @@ Protégé d’une vitrine carrée aux arêtes vert pomme, le microrobot industri
 https://www.youtube.com/watch?v=l6HB6jVdrrU
 
 
-
-
-
-<img src="./img/vueensemble1.JPG" width="350"/>
-<sub>Vue d'ensemble.</sub>
+### Mise en espace
+- L'ensemble de l'oeuvre occupe la grande salle de l'exposition, faisant face à un mur. Elle se compose principalement d'un escabeau et d'une table, offrant ainsi une mise en valeur optimale de l'installation.
+<img src="./img/ensemble_2.JPG" width="350"/>
+<sub>Photo de la mise en espace.</sub>
 
 
 
