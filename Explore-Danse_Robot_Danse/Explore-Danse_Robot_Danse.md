@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 
 
 ### Mise en espace
-- L'installation "DANSE, ROBOT, DANSE!" est exposée dans une zone centrale de l'exposition Explore au Centre des sciences de Montréal. Au cœur de l'espace, une vitrine carrée, aux bordures vert pomme, contient le robot Meca500. Cette vitrine est posée sur une table basse autour de laquelle les visiteurs peuvent circuler et interagir avec l'œuvre via des blocs colorés. L'ensemble est disposé de façon à offrir une visibilité optimale et une interaction aisée, invitant le public à commander les mouvements de danse du robot dans un cadre ludique et éducatif.
+- L'installation "DANSE, ROBOT, DANSE!" est exposée au centre de l'exposition Explore. Au cœur de l'espace, des vitres, avec des bordures de couleur vert pomme, et a l’intérieur il y a le robot Meca500. Le robot est posé sur une petite table au centre. Les visiteurs peuvent contrôler les mouvements du robot avec des des blocs colorés qui contrôlent les émotions du robot.
 
 - 
 <img src="./img/ensemble_2.JPG" width="350"/>
