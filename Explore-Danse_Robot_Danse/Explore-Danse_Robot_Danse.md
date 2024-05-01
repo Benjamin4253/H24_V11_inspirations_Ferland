@@ -1,7 +1,22 @@
 # Exposition : Explore - DANSE, ROBOT, DANSE!
 
 ## Sommaire 
-**FAIRE A LA FIN**
+
+- [Informations Générales](#informations-générales)
+- [Lieu de mise en exposition](#lieu-de-mise-en-exposition)
+- [Type d'exposition](#type-dexposition)
+- [Date de votre visite](#date-de-votre-visite)
+- [Détails de l'Œuvre Principale](#détails-de-lœuvre-principale)
+  - [Description de l'Œuvre](#description-de-lœuvre)
+  - [Diverses vues de l'exposition](#diverses-vues-de-lexposition)
+  - [Type d'installation](#type-dinstallation)
+  - [Mise en espace](#mise-en-espace)
+  - [Composantes et techniques](#composantes-et-techniques)
+  - [Éléments nécessaires à la mise en exposition](#éléments-nécessaires-à-la-mise-en-exposition)
+  - [Expérience vécue](#expérience-vécue)
+  - [Ce qui vous a plu, vous a donné des idées](#ce-qui-vous-a-plu-vous-a-donné-des-idées)
+  - [Aspect que vous ne souhaiteriez pas retenir](#aspect-que-vous-ne-souhaiteriez-pas-retenir)
+
 
 
 
