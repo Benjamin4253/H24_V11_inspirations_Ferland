@@ -81,7 +81,8 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 ### Composantes et techniques
 - L'exposition comprend des mécanismes sophistiqués pour déclencher des mouvements du robot. Des caméras optiques détectent les combinaisons de couleurs sur les blocs, envoyant des signaux au robot pour exécuter des danses prédéfinies.
 
-# Mettre les images pour les Composantes et techniques
+<h5>les boutons des capteurs de l'œuvre</h5>
+<img src="medias/oeuvre_bouton_capteur.jpg" alt="oeuvre bouton capteur" width="300"/>
 
   
 
