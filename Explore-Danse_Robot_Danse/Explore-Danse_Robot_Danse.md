@@ -87,6 +87,10 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 <h5>Les fils qui connectent l'écran de l'œuvre</h5>
 <img src="medias/oeuvre_fils_écran.jpg" alt="oeuvre fils écran" width="300"/>
 
+### Éléments nécessaires à la mise en exposition
+- Un écran interactif est installé pour afficher le robot. Un système audio diffuse de la musique synchronisée avec les mouvements du robot.
+
+
   
 
 
