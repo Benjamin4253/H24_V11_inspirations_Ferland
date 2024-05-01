@@ -102,29 +102,7 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 https://www.youtube.com/watch?v=l6HB6jVdrrU
 
 ### Ce qui vous a plu, vous a donné des idées
-- J'ai vraiment aimé les mouvements du robot. C'était une expérience vraiment immersive où chaque mouvement que nous choisissons prenait vie à travers le robot. J'ai aimé l'interactivité avec les blocs colorés.
+- J'ai vraiment aimé les mouvements du robot. C'était une expérience vraiment immersive où chaque mouvement qu'on choisissait prenait vie à travers le robot. J'ai aimé l'interactivité avec les blocs colorés.
 
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
+- Je ne change rien toute était bien fait, bien présenté et le niveau de compréhension des étapes était accessible pour tous les visiteurs peut-importe leur age.
