@@ -102,7 +102,8 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 https://www.youtube.com/watch?v=l6HB6jVdrrU
 
 ### Ce qui vous a plu, vous a donné des idées
-- J'ai été captivé par l'interaction entre le visiteur et le robot dansant. C'était une expérience immersive unique, où chaque mouvement choisi par le visiteur prenait vie à travers le robot, créant une expérience artistique et ludique.
+- J'ai vraiment aimé les mouvements du robot. C'était une expérience vraiment immersive où chaque mouvement que nous choisissons prenait vie à travers le robot. J'ai aimé l'interactivité avec les blocs colorés.
+
 
 
 
