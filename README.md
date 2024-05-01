@@ -1,1 +1,1 @@
-Présentation des différentes appréciations envers les différentes expositions.
+Présentation des nombreuses appréciations envers les différentes expositions.
