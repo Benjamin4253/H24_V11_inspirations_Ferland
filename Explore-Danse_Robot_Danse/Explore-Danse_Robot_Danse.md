@@ -95,6 +95,17 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 <h5>Un des haut-parleurs de l'œuvre</h5>
 <img src="medias/oeuvre_haut_parleur.jpg" alt="oeuvre haut-parleurs" width="300"/>
 
+### Expérience vécue
+- On devait manipuler les blocs colorés pour créer les mouvements du robot et puis on regardait le robot les exécuter.       C'était une expérience éducative et ludique.
+
+<h5>oeuvre en action</h5>
+https://www.youtube.com/watch?v=l6HB6jVdrrU
+
+### Ce qui vous a plu, vous a donné des idées
+- J'ai été captivé par l'interaction entre le visiteur et le robot dansant. C'était une expérience immersive unique, où chaque mouvement choisi par le visiteur prenait vie à travers le robot, créant une expérience artistique et ludique.
+
+
+
 
 
 
