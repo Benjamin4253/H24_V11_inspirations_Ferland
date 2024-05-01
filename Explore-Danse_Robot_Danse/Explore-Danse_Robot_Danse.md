@@ -67,7 +67,6 @@ Protégé d’une vitrine carrée aux arêtes vert pomme, le microrobot industri
 - Interactive
 
 <h5>oeuvre en action</h5>
-
 https://www.youtube.com/watch?v=l6HB6jVdrrU
 
 
@@ -89,6 +88,14 @@ https://www.youtube.com/watch?v=l6HB6jVdrrU
 
 ### Éléments nécessaires à la mise en exposition
 - Un écran interactif est installé pour afficher le robot. Un système audio diffuse de la musique synchronisée avec les mouvements du robot.
+
+<h5>L'écran avec le robot de l'œuvre</h5>
+<img src="medias/oeuvre_écran.jpg" alt="oeuvre écran" width="300"/>
+
+<h5>Un des haut-parleurs de l'œuvre</h5>
+<img src="medias/oeuvre_haut_parleur.jpg" alt="oeuvre haut-parleurs" width="300"/>
+
+
 
 
   
