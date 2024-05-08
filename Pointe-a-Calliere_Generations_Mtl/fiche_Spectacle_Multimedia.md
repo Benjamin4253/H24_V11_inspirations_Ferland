@@ -153,8 +153,7 @@ Je veux les utiliser dans mes futurs projets pour engager et éduquer le public 
 Je changerais le rythme de l'exposition pour donner plus de temps aux visiteurs de penser et comprendre.
 Moins d'infos à la fois, plus de pauses, et des zones calmes pour réfléchir. Ainsi, chacun pourrait mieux apprécier et se souvenir de sa visite.
 
-# Ajouter de courts vidéos pour documenter les actions
-**Appui visuel à intégrer**
+https://youtu.be/XtOAkltS_bQ?si=V5oZu5E7ccfFZNIk
 
 ## Références
 *Lien du site web de l'exposition:* https://pacmusee.qc.ca/fr/expositions/detail/spectacle-multimedia-generations-mtl/
